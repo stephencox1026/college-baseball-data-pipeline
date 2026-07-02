@@ -2,6 +2,15 @@
 
 # College Baseball Data Collection System
 
+## Pipeline
+
+```mermaid
+flowchart LR
+  scrape["Scrape multi-source web data"] --> match["Fuzzy entity matching"]
+  match --> db[("PostgreSQL schema")]
+  db --> query["Query for analysis"]
+```
+
 A Python application that scrapes college baseball statistics from Baseball Reference and draft information from Baseball America, then stores all data in PostgreSQL with drafted player flags.
 
 ## Features
