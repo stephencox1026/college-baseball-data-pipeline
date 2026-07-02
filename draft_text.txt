@@ -1,0 +1,171 @@
+2025	1	1	Washington Nationals	Eli Willits	SS	Fort Cobb-Broxton HS	HS	OK	Y	$8,200,000	
+2025	1	2	Los Angeles Angels	Tyler Bremner	RHP	UC Santa Barbara	4YR	CA	Y	$7,689,525	
+2025	1	3	Seattle Mariners	Kade Anderson	LHP	LSU	4YR	LA	Y	$8,800,000	
+2025	1	4	Colorado Rockies	Ethan Holliday	SS	Stillwater HS	HS	OK	Y	$9,000,000	
+2025	1	5	St. Louis Cardinals	Liam Doyle	LHP	Tennessee	4YR	TN	Y	$7,250,000	
+2025	1	6	Pittsburgh Pirates	Seth Hernandez	RHP	Corona HS	HS	CA	Y	$7,250,000	
+2025	1	7	Miami Marlins	Aiva Arquette	SS	Oregon State	4YR	OR	Y	$7,149,900	
+2025	1	8	Toronto Blue Jays	Joseph Parker	SS	Purvis HS	HS	MS	Y	$6,197,500	
+2025	1	9	Cincinnati Reds	Steele Hall	SS	Hewitt-Trussville HS	HS	AL	Y	$5,747,500	
+2025	1	10	Chicago White Sox	Billy Carlson	SS	Corona HS	HS	CA	Y	$6,235,900	
+2025	1	11	Athletics	Jamie Arnold	LHP	Florida State	4YR	FL	Y	$5,985,100	
+2025	1	12	Texas Rangers	Gavin Fien	SS	Great Oak HS	HS	CA	Y	$4,800,000	
+2025	1	13	San Francisco Giants	Gavin Kilen	SS	Tennessee	4YR	TN	Y	$5,247,500	
+2025	1	14	Tampa Bay Rays	Daniel Pierce	SS	Mill Creek HS	HS	GA	Y	$4,310,600	
+2025	1	15	Boston Red Sox	Kyson Witherspoon	RHP	Oklahoma	4YR	OK	Y	$5,000,000	
+2025	1	16	Minnesota Twins	Marek Houston	SS	Wake Forest	4YR	NC	Y	$4,497,500	
+2025	1	17	Chicago Cubs	Ethan Conrad	OF	Wake Forest	4YR	NC	Y	$3,563,100	
+2025	1	18	Arizona Diamondbacks	Kayson Cunningham	SS	Lady Bird Johnson HS	HS	TX	Y	$4,581,900	
+2025	1	19	Baltimore Orioles	Ike Irish	C	Auburn	4YR	AL	Y	$4,418,400	
+2025	1	20	Milwaukee Brewers	Andrew Fischer	3B	Tennessee	4YR	TN	Y	$3,500,000	
+2025	1	21	Houston Astros	Xavier Neyens	SS	Mt. Vernon HS	HS	WA	Y	$4,120,000	
+2025	1	22	Atlanta Braves	Tate Southisene	SS	Basic HS	HS	NV	Y	$2,622,500	
+2025	1	23	Kansas City Royals	Sean Gamble	OF	IMG Academy	HS	FL	Y	$3,997,500	
+2025	1	24	Detroit Tigers	Jordan Yost	SS	Sickles HS	HS	FL	Y	$3,247,500	
+2025	1	25	San Diego Padres	Kruz Schoolcraft	LHP	Sunset HS	HS	OR	Y	$3,606,600	
+2025	1	26	Philadelphia Phillies	Gage Wood	RHP	Arkansas	4YR	AR	Y	$3,000,000	
+2025	1	27	Cleveland Guardians	Jace LaViolette	OF	Texas A&M	4YR	TX	Y	$4,000,000	
+2025	PPI	28	Kansas City Royals	Josh Hammond	SS	Wesleyan Christian Academy	HS	NC	Y	$3,197,500	
+2025	1C	29	Arizona Diamondbacks	Patrick Forbes	RHP	Louisville	4YR	KY	Y	$3,000,000	
+2025	1C	30	Baltimore Orioles	Caden Bodine	C	Coastal Carolina	4YR	SC	Y	$3,110,800	
+2025	1C	31	Baltimore Orioles	Wehiwa Aloy	SS	Arkansas	4YR	AR	Y	$3,040,300	
+2025	1C	32	Milwaukee Brewers	Brady Ebel	SS	Corona HS	HS	CA	Y	$2,750,000	
+2025	CB-A	33	Boston Red Sox	Marcus Phillips	RHP	Tennessee	4YR	TN	Y	$2,500,000	
+2025	CB-A	34	Detroit Tigers	Michael Oliveto	C	Hauppauge HS	HS	NY	Y	$2,447,500	
+2025	CB-A	35	Seattle Mariners	Luke Stevenson	C	North Carolina	4YR	NC	Y	$2,800,000	
+2025	CB-A	36	Minnesota Twins	Riley Quick	RHP	Alabama	4YR	AL	Y	$2,692,000	
+2025	CB-A	37	Baltimore Orioles	Slater de Brun	OF	Summit HS	HS	OR	Y	$4,000,000	
+2025	1	38	New York Mets	Mitch Voit	TWP	Michigan	4YR	MI	Y	$1,750,000	
+2025	1	39	New York Yankees	Dax Kilby	SS	Newnan HS	HS	GA	Y	$2,797,500	
+2025	1	40	Los Angeles Dodgers	Zach Root	LHP	Arkansas	4YR	AR	Y	$2,197,500	
+2025	CB-A	41	Los Angeles Dodgers	Charles Davalan	OF	Arkansas	4YR	AR	Y	$1,997,500	
+2025	CB-A	42	Tampa Bay Rays	Brendan Summerhill	OF	Arizona	4YR	AZ	Y	$1,997,500	
+2025	CB-A	43	Miami Marlins	Cam Cannarella	OF	Clemson	4YR	SC	Y	$2,277,425	
+2025	2	44	Chicago White Sox	Jaden Fauske	OF	Nazareth Academy	HS	IL	Y	$2,997,500	
+2025	2	45	Colorado Rockies	J.B. Middleton	RHP	Southern Mississippi	4YR	MS	Y	$2,071,900	
+2025	2	46	Miami Marlins	Brandon Compton	OF	Arizona State	4YR	AZ	Y	$2,000,000	
+2025	2	47	Los Angeles Angels	Chase Shores	RHP	LSU	4YR	LA	Y	$2,077,200	
+2025	2	48	Athletics	Devin Taylor	OF	Indiana	4YR	IN	Y	$2,500,000	
+2025	2	49	Washington Nationals	Ethan Petry	OF	South Carolina	4YR	SC	Y	$2,090,000	
+2025	2	50	Pittsburgh Pirates	Angel Cervantes	RHP	Warren HS	HS	CA	N		
+2025	2	51	Cincinnati Reds	Aaron Watson	RHP	Trinity Christian Academy	HS	FL	Y	$2,747,500	
+2025	2	52	Texas Rangers	A.J. Russell	RHP	Tennessee	4YR	TN	Y	$2,600,000	
+2025	2	53	Tampa Bay Rays	Cooper Flemming	SS	Ganesha HS	HS	CA	Y	$2,297,500	
+2025	2	54	Minnesota Twins	Quentin Young	SS	Oaks Christian HS	HS	CA	Y	$1,761,600	
+2025	2	55	St. Louis Cardinals	Ryan Mitchell	OF	Houston HS	HS	TN	Y	$2,250,000	
+2025	2	56	Chicago Cubs	Kane Kepley	OF	North Carolina	4YR	NC	Y	$1,400,000	
+2025	2	57	Seattle Mariners	Nick Becker	SS	Don Bosco Prep HS	HS	NJ	Y	$2,750,000	
+2025	2	58	Baltimore Orioles	Joseph Dzierwa	LHP	Michigan State	4YR	MI	Y	$1,497,500	
+2025	2	59	Milwaukee Brewers	JD Thompson	LHP	Vanderbilt	4YR	TN	Y	$1,560,200	
+2025	2	60	Atlanta Braves	Alex Lodise	SS	Florida State	4YR	FL	Y	$1,297,500	
+2025	2	61	Kansas City Royals	Michael Lombardi	RHP	Tulane	4YR	LA	Y	$1,297,500	
+2025	2	62	Detroit Tigers	Malachi Witherspoon	RHP	Oklahoma	4YR	OK	Y	$1,448,700	
+2025	2	63	Philadelphia Phillies	Cade Obermueller	LHP	Iowa	4YR	IA	Y	$1,197,500	
+2025	2	64	Cleveland Guardians	Dean Curley	SS	Tennessee	4YR	TN	Y	$1,733,905	
+2025	2	65	Los Angeles Dodgers	Cam Leiter	RHP	Florida State	4YR	FL	Y	$1,346,600	
+2025	CB-B	66	Cleveland Guardians	Aaron Walton	OF	Arizona	4YR	AZ	Y	$1,100,000	
+2025	SUP-2	67	Tampa Bay Rays	Dean Moss	OF	IMG Academy	HS	FL	Y	$2,097,500	
+2025	SUP-2	68	Milwaukee Brewers	Frank Cairone	LHP	Delsea Reg HS	HS	NJ	Y	$1,097,500	
+2025	CB-B	69	Baltimore Orioles	J.T. Quinn	RHP	Georgia	4YR	GA	Y	$1,147,500	
+2025	CB-B	70	Cleveland Guardians	Will Hynes	RHP	Lorne Park SS	HS	CAN	Y	$950,000	
+2025	CB-B	71	Kansas City Royals	Justin Lamkin	LHP	Texas A&M	4YR	TX	Y	$1,161,200	
+2025	CB-B	72	St. Louis Cardinals	Tanner Franklin	RHP	Tennessee	4YR	TN	Y	$1,145,900	
+2025	CB-B	73	Pittsburgh Pirates	Murf Gray	3B	Fresno State	4YR	CA	Y	$997,500	
+2025	CB-B	74	Colorado Rockies	Max Belyeu	OF	Texas	4YR	TX	Y	$1,111,000	
+2025	2C	75	Boston Red Sox	Henry Godbout	SS	Virginia	4YR	VA	Y	$1,093,800	
+2025	3	76	Chicago White Sox	Kyle Lodise	SS	Georgia Tech	4YR	GA	Y	$922,500	
+2025	3	77	Colorado Rockies	Ethan Hedges	3B	USC	4YR	CA	Y	$950,000	
+2025	3	78	Miami Marlins	Max Williams	OF	Florida State	4YR	FL	Y	$897,500	
+2025	3	79	Los Angeles Angels	Johnny Slawinski	LHP	Lyndon B. Johnson HS	HS	TX	Y	$2,497,500	
+2025	3	80	Washington Nationals	Landon Harmon	RHP	East Union Attendance Center HS	HS	MS	Y	$2,500,000	
+2025	3	81	Toronto Blue Jays	Jake Cook	OF	Southern Mississippi	4YR	MS	Y	$922,500	
+2025	3	82	Pittsburgh Pirates	Easton Carmichael	C	Oklahoma	4YR	OK	Y	$977,000	
+2025	3	83	Cincinnati Reds	Mason Morris	RHP	Ole Miss	4YR	MS	Y	$897,500	
+2025	3	84	Texas Rangers	Josh Owens	TWP	Providence Academy	HS	TN	Y	$1,100,000	
+2025	3	85	San Francisco Giants	Trevor Cohen	OF	Rutgers	4YR	NJ	Y	$847,500	
+2025	3	86	Tampa Bay Rays	Taitn Gray	C	Dallas Center-Grimes HS	HS	IA	Y	$918,300	
+2025	3	87	Boston Red Sox	Anthony Eyanson	RHP	LSU	4YR	LA	Y	$1,750,000	
+2025	3	88	Minnesota Twins	James Ellwanger	RHP	Dallas Baptist	4YR	TX	Y	$1,000,000	
+2025	3	89	St. Louis Cardinals	Jack Gurevitch	1B	University Of San Diego	4YR	CA	Y	$879,000	
+2025	3	90	Chicago Cubs	Dominick Reid	RHP	Abilene Christian	4YR	TX	Y	$649,125	
+2025	3	91	Seattle Mariners	Griffin Hugus	RHP	Miami	4YR	FL	Y	$640,000	
+2025	3	92	Arizona Diamondbacks	Brian Curley	RHP	Georgia	4YR	GA	Y	$700,000	
+2025	3	93	Baltimore Orioles	RJ Austin	OF	Vanderbilt	4YR	TN	Y	$823,900	
+2025	3	94	Milwaukee Brewers	Jacob Morrison	RHP	Coastal Carolina	4YR	SC	Y	$697,500	
+2025	3	95	Houston Astros	Ethan Frey	OF	LSU	4YR	LA	Y	$997,500	
+2025	3	96	Atlanta Braves	Cody Miller	SS	East Tennessee State	4YR	TN	Y	$297,500	
+2025	3	97	Kansas City Royals	Cameron Millar	RHP	Alhambra HS	HS	CA	Y	$1,497,500	
+2025	3	98	Detroit Tigers	Ben Jacobs	LHP	Arizona State	4YR	AZ	Y	$722,500	
+2025	3	99	San Diego Padres	Ryan Wideman	OF	Western Kentucky	4YR	KY	Y	$650,000	
+2025	3	100	Philadelphia Phillies	Cody Bowker	RHP	Vanderbilt	4YR	TN	Y	$700,000	
+2025	3	101	Cleveland Guardians	Nolan Schubart	OF	Oklahoma State	4YR	OK	Y	$730,000	
+2025	3	102	New York Mets	Antonio Jimenez	SS	Central Florida	4YR	FL	Y	$564,000	
+2025	3	103	New York Yankees	Kaeden Kent	SS	Texas A&M	4YR	TX	Y	$741,900	
+2025	3	104	Los Angeles Dodgers	Landyn Vidourek	OF	Cincinnati	4YR	OH	Y	$552,750	
+2025	SUP-3	105	Los Angeles Angels	Nate Snead	RHP	Tennessee	4YR	TN	Y	$597,500	
+2025	4	106	Chicago White Sox	Landon Hodge	C	Crespi Carmelite HS	HS	CA	Y	$1,097,500	
+2025	4	107	Colorado Rockies	Riley Kelly	RHP	University Of California - Irvine	4YR	CA	Y	$700,000	
+2025	4	108	Miami Marlins	Drew Faurot	SS	Florida State	4YR	FL	Y	$531,225	
+2025	4	109	Los Angeles Angels	Jake Munroe	3B	Louisville	4YR	KY	Y	$597,500	
+2025	4	110	Athletics	Gavin Turley	OF	Oregon State	4YR	OR	Y	$600,000	
+2025	4	111	Washington Nationals	Miguel Sime	RHP	Poly Prep Country Day School	HS	NY	Y	$2,000,000	
+2025	4	112	Toronto Blue Jays	Micah Bucknam	RHP	Dallas Baptist	4YR	TX	Y	$678,300	
+2025	4	113	Pittsburgh Pirates	Gustavo Melendez	SS	Colegio Nuestra Señora de la Merced	HS	PRI	Y	$671,800	
+2025	4	114	Cincinnati Reds	Mason Neville	OF	Oregon	4YR	OR	Y	$697,500	
+2025	4	115	Texas Rangers	Mason McConnaughey	RHP	Nebraska	4YR	NE	Y	$495,825	
+2025	4	116	San Francisco Giants	Lorenzo Meola	SS	Stetson	4YR	FL	Y	$652,200	
+2025	4	117	Tampa Bay Rays	Dominic Fritton	LHP	NC State	4YR	NC	Y	$497,500	
+2025	4	118	Boston Red Sox	Mason White	SS	Arizona	4YR	AZ	Y	$642,200	
+2025	4	119	Minnesota Twins	Jason Reitz	RHP	Oregon	4YR	OR	Y	$633,200	
+2025	4	120	St. Louis Cardinals	Cade Crossland	LHP	Oklahoma	4YR	OK	Y	$729,500	
+2025	4	121	Chicago Cubs	Kaleb Wing	RHP	Scotts Valley HS	HS	CA	Y	$1,500,000	
+2025	4	122	Seattle Mariners	Mason Peters	LHP	Dallas Baptist	4YR	TX	Y	$550,000	
+2025	4	123	Arizona Diamondbacks	Dean Livingston	RHP	Hebron Christian Academy	HS	GA	Y	$1,000,000	
+2025	4	124	Baltimore Orioles	Colin Yeaman	SS	University Of California - Irvine	4YR	CA	Y	$602,800	
+2025	4	125	Milwaukee Brewers	Joshua Flores	RHP	Lake Central HS	HS	IN	Y	$722,500	
+2025	4	126	Houston Astros	Nick Monistere	IF	Southern Mississippi	4YR	MS	Y	$397,500	
+2025	4	127	Atlanta Braves	Briggs McKenzie	LHP	Corinth Holders HS	HS	NC	Y	$2,997,500	
+2025	4	128	Kansas City Royals	Nolan Sailors	OF	Creighton	4YR	NE	Y	$147,500	
+2025	4	129	Detroit Tigers	Caleb Leys	LHP	University Of Maine	4YR	ME	Y	$574,900	
+2025	4	130	San Diego Padres	Michael Salina	RHP	St. Bonaventure	4YR	NY	Y	$571,500	
+2025	4	131	Philadelphia Phillies	Sean Youngerman	RHP	Oklahoma State	4YR	OK	Y	$564,500	
+2025	4	132	Cleveland Guardians	Luke Hill	3B	Ole Miss	4YR	MS	Y	$722,600	
+2025	4	133	New York Mets	Peter Kussow	RHP	Arrowhead Union HS	HS	WI	Y	$897,500	
+2025	4	134	New York Yankees	Pico Kohn	LHP	Mississippi State	4YR	MS	Y	$547,800	
+2025	4	135	Los Angeles Dodgers	Aidan West	SS	Long Reach HS	HS	MD	Y	$1,272,500	
+2025	4C	136	Atlanta Braves	Dixon Williams	2B	East Carolina	4YR	NC	Y	$497,500	
+2025	5	137	Chicago White Sox	Gabe Davis	RHP	Oklahoma State	4YR	OK	Y	$587,500	
+2025	5	138	Colorado Rockies	Cameron Nelson	OF	Wake Forest	4YR	NC	Y	$600,000	
+2025	5	139	Miami Marlins	Chris Arroyo	1B	Virginia	4YR	VA	Y	$521,400	
+2025	5	140	Los Angeles Angels	CJ Gray	RHP	A.L. Brown HS	HS	NC	Y	$1,247,500	
+2025	5	141	Athletics	Zane Taylor	RHP	UNC Wilmington	4YR	NC	Y	$513,900	
+2025	5	142	Washington Nationals	Coy James	SS	Davie HS	HS	NC	Y	$2,500,000	
+2025	5	143	Toronto Blue Jays	Tim Piasentin	3B	Foothills Composite HS	HS	CAN	Y	$747,500	
+2025	5	144	Pittsburgh Pirates	Adonys Guzman	C	Arizona	4YR	AZ	Y	$496,500	
+2025	5	145	Cincinnati Reds	Eli Pitts	OF	North Atlanta HS	HS	GA	Y	$572,500	
+2025	5	146	Texas Rangers	Ben Abeldt	LHP	TCU	4YR	TX	Y	$450,000	
+2025	5	147	Tampa Bay Rays	James Quinn-Irons	OF	George Mason	4YR	VA	Y	$481,900	
+2025	5	148	Boston Red Sox	Christian Foutch	RHP	Arkansas	4YR	AR	Y	$400,000	
+2025	5	149	Minnesota Twins	Matt Barr	RHP	SUNY Niagara CC	JC	NY	Y	$762,500	
+2025	5	150	St. Louis Cardinals	Ethan Young	RHP	East Carolina	4YR	NC	Y	$630,000	
+2025	5	151	Chicago Cubs	Kade Snell	OF	Alabama	4YR	AL	Y	$200,000	
+2025	5	152	Seattle Mariners	Korbyn Dickerson	OF	Indiana	4YR	IN	Y	$461,100	
+2025	5	153	Arizona Diamondbacks	Nathan Hall	OF	South Carolina	4YR	SC	Y	$456,400	
+2025	5	154	Baltimore Orioles	Jaiden Lo Re	SS	Corona Del Sol HS	HS	AZ	Y	$562,500	
+2025	5	155	Milwaukee Brewers	Sean Episcope	RHP	Princeton	4YR	NJ	Y	$335,550	
+2025	5	156	Houston Astros	Nick Potter	RHP	Wichita State	4YR	KS	Y	$336,600	
+2025	5	157	Atlanta Braves	Conor Essenburg	OF	Lincoln-Way West HS	HS	IL	Y	$1,197,500	
+2025	5	158	Kansas City Royals	Aiden Jimenez	RHP	Arkansas	4YR	AR	Y	$431,900	
+2025	5	159	Detroit Tigers	Ryan Hall	RHP	North Gwinnett HS	HS	GA	Y	$997,500	
+2025	5	160	San Diego Padres	Ty Harvey	C	Inspiration Academy	HS	FL	Y	$1,500,000	
+2025	5	161	Philadelphia Phillies	Gabe Craig	RHP	Baylor	4YR	TX	Y	$197,500	
+2025	5	162	Cleveland Guardians	Riley Nelson	1B	Vanderbilt	4YR	TN	Y	$350,000	
+2025	5	163	New York Mets	Peyton Prescott	RHP	Florida State	4YR	FL	Y	$197,500	
+2025	5	164	New York Yankees	Core Jackson	SS	Utah	4YR	UT	Y	$147,500	
+2025	5	165	Los Angeles Dodgers	Davion Hickson	RHP	Rice	4YR	TX	Y	$404,800	
+2025	7	220	San Diego Padres	Kerrington Cross	3B	Cincinnati	4YR	OH	Y	$20,000	
+2025	10	293	Pittsburgh Pirates	Matt King	SS	Arizona State	4YR	AZ	Y	$22,500	
+2025	9	264	Cincinnati Reds	Kien Vu	OF	Arizona State	4YR	AZ	Y	$172,500	
+2025	8	246	Houston Astros	Kyle Walker	2B	Arizona State	4YR	AZ	Y	$152,500	
+2025	6	188	Kansas City Royals	Tyriq Kemp	SS	Baylor	4YR	TX	Y	$147,500
+

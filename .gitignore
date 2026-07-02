@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / config
+.env
+.env.*
+!.env.example
+*.key
+*credentials*
+*secret*
+
+# Data & model artifacts (keep repos light; use LFS or external storage)
+*.pkl
+*.joblib
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+data/raw/
+data/processed/
+data/cache/
+cache/
+
+# Logs
+*.log
+logs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Binaries that should never be committed
+ngrok
+ngrok.zip
+*.dylib
+*.so

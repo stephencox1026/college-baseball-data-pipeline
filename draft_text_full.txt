@@ -1,0 +1,423 @@
+2025	1	1	Washington NationalsTeam Logo of Washington Nationals	
+Headshot of Eli Willits
+Eli Willits
+	SS	Fort Cobb-Broxton HS	HS	OK	Y	$8,200,000	
+2025	1	2	Los Angeles AngelsTeam Logo of Los Angeles Angels	
+Headshot of Tyler Bremner
+Tyler Bremner
+	RHP	UC Santa Barbara	4YR	CA	Y	$7,689,525	
+2025	1	3	Seattle MarinersTeam Logo of Seattle Mariners	
+Headshot of Kade Anderson
+Kade Anderson
+	LHP	LSU	4YR	LA	Y	$8,800,000	
+2025	1	4	Colorado RockiesTeam Logo of Colorado Rockies	
+Headshot of Ethan Holliday
+Ethan Holliday
+	SS	Stillwater HS	HS	OK	Y	$9,000,000	
+2025	1	5	St. Louis CardinalsTeam Logo of St. Louis Cardinals	
+Headshot of Liam Doyle
+Liam Doyle
+	LHP	Tennessee	4YR	TN	Y	$7,250,000	
+2025	1	6	Pittsburgh PiratesTeam Logo of Pittsburgh Pirates	
+Headshot of Seth Hernandez
+Seth Hernandez
+	RHP	Corona HS	HS	CA	Y	$7,250,000	
+2025	1	7	Miami MarlinsTeam Logo of Miami Marlins	
+Headshot of Aiva Arquette
+Aiva Arquette
+	SS	Oregon State	4YR	OR	Y	$7,149,900	
+2025	1	8	Toronto Blue JaysTeam Logo of Toronto Blue Jays	
+Headshot of Joseph Parker
+Joseph Parker
+	SS	Purvis HS	HS	MS	Y	$6,197,500	
+2025	1	9	Cincinnati RedsTeam Logo of Cincinnati Reds	
+Headshot of Steele Hall
+Steele Hall
+	SS	Hewitt-Trussville HS	HS	AL	Y	$5,747,500	
+2025	1	10	Chicago White SoxTeam Logo of Chicago White Sox	
+Headshot of Billy Carlson
+Billy Carlson
+	SS	Corona HS	HS	CA	Y	$6,235,900	
+2025	1	11	AthleticsTeam Logo of Athletics	
+Headshot of Jamie Arnold
+Jamie Arnold
+	LHP	Florida State	4YR	FL	Y	$5,985,100	
+2025	1	12	Texas RangersTeam Logo of Texas Rangers	
+Headshot of Gavin Fien
+Gavin Fien
+	SS	Great Oak HS	HS	CA	Y	$4,800,000	
+2025	1	13	San Francisco GiantsTeam Logo of San Francisco Giants	
+Headshot of Gavin Kilen
+Gavin Kilen
+	SS	Tennessee	4YR	TN	Y	$5,247,500	
+2025	1	14	Tampa Bay RaysTeam Logo of Tampa Bay Rays	
+Headshot of Daniel Pierce
+Daniel Pierce
+	SS	Mill Creek HS	HS	GA	Y	$4,310,600	
+2025	1	15	Boston Red SoxTeam Logo of Boston Red Sox	
+Headshot of Kyson Witherspoon
+Kyson Witherspoon
+	RHP	Oklahoma	4YR	OK	Y	$5,000,000	
+2025	1	16	Minnesota TwinsTeam Logo of Minnesota Twins	
+Headshot of Marek Houston
+Marek Houston
+	SS	Wake Forest	4YR	NC	Y	$4,497,500	
+2025	1	17	Chicago CubsTeam Logo of Chicago Cubs	
+Headshot of Ethan Conrad
+Ethan Conrad
+	OF	Wake Forest	4YR	NC	Y	$3,563,100	
+2025	1	18	Arizona DiamondbacksTeam Logo of Arizona Diamondbacks	
+Headshot of Kayson Cunningham
+Kayson Cunningham
+	SS	Lady Bird Johnson HS	HS	TX	Y	$4,581,900	
+2025	1	19	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of Ike Irish
+Ike Irish
+	C	Auburn	4YR	AL	Y	$4,418,400	
+2025	1	20	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Headshot of Andrew Fischer
+Andrew Fischer
+	3B	Tennessee	4YR	TN	Y	$3,500,000	
+2025	1	21	Houston AstrosTeam Logo of Houston Astros	
+Headshot of Xavier Neyens
+Xavier Neyens
+	SS	Mt. Vernon HS	HS	WA	Y	$4,120,000	
+2025	1	22	Atlanta BravesTeam Logo of Atlanta Braves	
+Headshot of Tate Southisene
+Tate Southisene
+	SS	Basic HS	HS	NV	Y	$2,622,500	
+2025	1	23	Kansas City RoyalsTeam Logo of Kansas City Royals	
+Headshot of Sean Gamble
+Sean Gamble
+	OF	IMG Academy	HS	FL	Y	$3,997,500	
+2025	1	24	Detroit TigersTeam Logo of Detroit Tigers	
+Headshot of Jordan Yost
+Jordan Yost
+	SS	Sickles HS	HS	FL	Y	$3,247,500	
+2025	1	25	San Diego PadresTeam Logo of San Diego Padres	
+Headshot of Kruz Schoolcraft
+Kruz Schoolcraft
+	LHP	Sunset HS	HS	OR	Y	$3,606,600	
+2025	1	26	Philadelphia PhilliesTeam Logo of Philadelphia Phillies	
+Headshot of Gage Wood
+Gage Wood
+	RHP	Arkansas	4YR	AR	Y	$3,000,000	
+2025	1	27	Cleveland GuardiansTeam Logo of Cleveland Guardians	
+Headshot of Jace LaViolette
+Jace LaViolette
+	OF	Texas A&M	4YR	TX	Y	$4,000,000	
+2025	PPI	28	Kansas City RoyalsTeam Logo of Kansas City Royals	
+Headshot of Josh Hammond
+Josh Hammond
+	SS	Wesleyan Christian Academy	HS	NC	Y	$3,197,500	
+2025	1C	29	Arizona DiamondbacksTeam Logo of Arizona Diamondbacks	
+Headshot of Patrick Forbes
+Patrick Forbes
+	RHP	Louisville	4YR	KY	Y	$3,000,000	
+2025	1C	30	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of Caden Bodine
+Caden Bodine
+	C	Coastal Carolina	4YR	SC	Y	$3,110,800	
+2025	1C	31	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of Wehiwa Aloy
+Wehiwa Aloy
+	SS	Arkansas	4YR	AR	Y	$3,040,300	
+2025	1C	32	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Headshot of Brady Ebel
+Brady Ebel
+	SS	Corona HS	HS	CA	Y	$2,750,000	
+2025	CB-A	33	Boston Red SoxTeam Logo of Boston Red Sox	
+Headshot of Marcus Phillips
+Marcus Phillips
+	RHP	Tennessee	4YR	TN	Y	$2,500,000	
+2025	CB-A	34	Detroit TigersTeam Logo of Detroit Tigers	
+Headshot of Michael Oliveto
+Michael Oliveto
+	C	Hauppauge HS	HS	NY	Y	$2,447,500	
+2025	CB-A	35	Seattle MarinersTeam Logo of Seattle Mariners	
+Headshot of Luke Stevenson
+Luke Stevenson
+	C	North Carolina	4YR	NC	Y	$2,800,000	
+2025	CB-A	36	Minnesota TwinsTeam Logo of Minnesota Twins	
+Headshot of Riley Quick
+Riley Quick
+	RHP	Alabama	4YR	AL	Y	$2,692,000	
+2025	CB-A	37	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of Slater de Brun
+Slater de Brun
+	OF	Summit HS	HS	OR	Y	$4,000,000	
+2025	1	38	New York MetsTeam Logo of New York Mets	
+Headshot of Mitch Voit
+Mitch Voit
+	TWP	Michigan	4YR	MI	Y	$1,750,000	
+2025	1	39	New York YankeesTeam Logo of New York Yankees	
+Headshot of Dax Kilby
+Dax Kilby
+	SS	Newnan HS	HS	GA	Y	$2,797,500	
+2025	1	40	Los Angeles DodgersTeam Logo of Los Angeles Dodgers	
+Headshot of Zach Root
+Zach Root
+	LHP	Arkansas	4YR	AR	Y	$2,197,500	
+2025	CB-A	41	Los Angeles DodgersTeam Logo of Los Angeles Dodgers	
+Headshot of Charles Davalan
+Charles Davalan
+	OF	Arkansas	4YR	AR	Y	$1,997,500	
+2025	CB-A	42	Tampa Bay RaysTeam Logo of Tampa Bay Rays	
+Headshot of Brendan Summerhill
+Brendan Summerhill
+	OF	Arizona	4YR	AZ	Y	$1,997,500	
+2025	CB-A	43	Miami MarlinsTeam Logo of Miami Marlins	
+Headshot of Cam Cannarella
+Cam Cannarella
+	OF	Clemson	4YR	SC	Y	$2,277,425	
+2025	2	44	Chicago White SoxTeam Logo of Chicago White Sox	
+Headshot of Jaden Fauske
+Jaden Fauske
+	OF	Nazareth Academy	HS	IL	Y	$2,997,500	
+2025	2	45	Colorado RockiesTeam Logo of Colorado Rockies	
+Headshot of J.B. Middleton
+J.B. Middleton
+	RHP	Southern Mississippi	4YR	MS	Y	$2,071,900	
+2025	2	46	Miami MarlinsTeam Logo of Miami Marlins	
+Headshot of Brandon Compton
+Brandon Compton
+	OF	Arizona State	4YR	AZ	Y	$2,000,000	
+2025	2	47	Los Angeles AngelsTeam Logo of Los Angeles Angels	
+Headshot of Chase Shores
+Chase Shores
+	RHP	LSU	4YR	LA	Y	$2,077,200	
+2025	2	48	AthleticsTeam Logo of Athletics	
+Headshot of Devin Taylor
+Devin Taylor
+	OF	Indiana	4YR	IN	Y	$2,500,000	
+2025	2	49	Washington NationalsTeam Logo of Washington Nationals	
+Headshot of Ethan Petry
+Ethan Petry
+	OF	South Carolina	4YR	SC	Y	$2,090,000	
+2025	2	50	Pittsburgh PiratesTeam Logo of Pittsburgh Pirates	
+Headshot of Angel Cervantes
+Angel Cervantes
+	RHP	Warren HS	HS	CA	N		
+2025	2	51	Cincinnati RedsTeam Logo of Cincinnati Reds	
+Headshot of Aaron Watson
+Aaron Watson
+	RHP	Trinity Christian Academy	HS	FL	Y	$2,747,500	
+2025	2	52	Texas RangersTeam Logo of Texas Rangers	
+Headshot of A.J. Russell
+A.J. Russell
+	RHP	Tennessee	4YR	TN	Y	$2,600,000	
+2025	2	53	Tampa Bay RaysTeam Logo of Tampa Bay Rays	
+Headshot of Cooper Flemming
+Cooper Flemming
+	SS	Ganesha HS	HS	CA	Y	$2,297,500	
+2025	2	54	Minnesota TwinsTeam Logo of Minnesota Twins	
+Headshot of Quentin Young
+Quentin Young
+	SS	Oaks Christian HS	HS	CA	Y	$1,761,600	
+2025	2	55	St. Louis CardinalsTeam Logo of St. Louis Cardinals	
+Headshot of Ryan Mitchell
+Ryan Mitchell
+	OF	Houston HS	HS	TN	Y	$2,250,000	
+2025	2	56	Chicago CubsTeam Logo of Chicago Cubs	
+Headshot of Kane Kepley
+Kane Kepley
+	OF	North Carolina	4YR	NC	Y	$1,400,000	
+2025	2	57	Seattle MarinersTeam Logo of Seattle Mariners	
+Headshot of Nick Becker
+Nick Becker
+	SS	Don Bosco Prep HS	HS	NJ	Y	$2,750,000	
+2025	2	58	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of Joseph Dzierwa
+Joseph Dzierwa
+	LHP	Michigan State	4YR	MI	Y	$1,497,500	
+2025	2	59	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Headshot of JD Thompson
+JD Thompson
+	LHP	Vanderbilt	4YR	TN	Y	$1,560,200	
+2025	2	60	Atlanta BravesTeam Logo of Atlanta Braves	
+Headshot of Alex Lodise
+Alex Lodise
+	SS	Florida State	4YR	FL	Y	$1,297,500	
+2025	2	61	Kansas City RoyalsTeam Logo of Kansas City Royals	
+Headshot of Michael Lombardi
+Michael Lombardi
+	RHP	Tulane	4YR	LA	Y	$1,297,500	
+2025	2	62	Detroit TigersTeam Logo of Detroit Tigers	
+Headshot of Malachi Witherspoon
+Malachi Witherspoon
+	RHP	Oklahoma	4YR	OK	Y	$1,448,700	
+2025	2	63	Philadelphia PhilliesTeam Logo of Philadelphia Phillies	
+Headshot of Cade Obermueller
+Cade Obermueller
+	LHP	Iowa	4YR	IA	Y	$1,197,500	
+2025	2	64	Cleveland GuardiansTeam Logo of Cleveland Guardians	
+Headshot of Dean Curley
+Dean Curley
+	SS	Tennessee	4YR	TN	Y	$1,733,905	
+2025	2	65	Los Angeles DodgersTeam Logo of Los Angeles Dodgers	
+Headshot of Cam Leiter
+Cam Leiter
+	RHP	Florida State	4YR	FL	Y	$1,346,600	
+2025	CB-B	66	Cleveland GuardiansTeam Logo of Cleveland Guardians	
+Headshot of Aaron Walton
+Aaron Walton
+	OF	Arizona	4YR	AZ	Y	$1,100,000	
+2025	SUP-2	67	Tampa Bay RaysTeam Logo of Tampa Bay Rays	
+Headshot of Dean Moss
+Dean Moss
+	OF	IMG Academy	HS	FL	Y	$2,097,500	
+2025	SUP-2	68	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Headshot of Frank Cairone
+Frank Cairone
+	LHP	Delsea Reg HS	HS	NJ	Y	$1,097,500	
+2025	CB-B	69	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of J.T. Quinn
+J.T. Quinn
+	RHP	Georgia	4YR	GA	Y	$1,147,500	
+2025	CB-B	70	Cleveland GuardiansTeam Logo of Cleveland Guardians	
+Headshot of Will Hynes
+Will Hynes
+	RHP	Lorne Park SS	HS	CAN	Y	$950,000	
+2025	CB-B	71	Kansas City RoyalsTeam Logo of Kansas City Royals	
+Headshot of Justin Lamkin
+Justin Lamkin
+	LHP	Texas A&M	4YR	TX	Y	$1,161,200	
+2025	CB-B	72	St. Louis CardinalsTeam Logo of St. Louis Cardinals	
+Headshot of Tanner Franklin
+Tanner Franklin
+	RHP	Tennessee	4YR	TN	Y	$1,145,900	
+2025	CB-B	73	Pittsburgh PiratesTeam Logo of Pittsburgh Pirates	
+Headshot of Murf Gray
+Murf Gray
+	3B	Fresno State	4YR	CA	Y	$997,500	
+2025	CB-B	74	Colorado RockiesTeam Logo of Colorado Rockies	
+Headshot of Max Belyeu
+Max Belyeu
+	OF	Texas	4YR	TX	Y	$1,111,000	
+2025	2C	75	Boston Red SoxTeam Logo of Boston Red Sox	
+Headshot of Henry Godbout
+Henry Godbout
+	SS	Virginia	4YR	VA	Y	$1,093,800	
+2025	3	76	Chicago White SoxTeam Logo of Chicago White Sox	
+Headshot of Kyle Lodise
+Kyle Lodise
+	SS	Georgia Tech	4YR	GA	Y	$922,500	
+2025	3	77	Colorado RockiesTeam Logo of Colorado Rockies	
+Headshot of Ethan Hedges
+Ethan Hedges
+	3B	USC	4YR	CA	Y	$950,000	
+2025	3	78	Miami MarlinsTeam Logo of Miami Marlins	
+Headshot of Max Williams
+Max Williams
+	OF	Florida State	4YR	FL	Y	$897,500	
+2025	3	79	Los Angeles AngelsTeam Logo of Los Angeles Angels	
+Headshot of Johnny Slawinski
+Johnny Slawinski
+	LHP	Lyndon B. Johnson HS	HS	TX	Y	$2,497,500	
+2025	3	80	Washington NationalsTeam Logo of Washington Nationals	
+Headshot of Landon Harmon
+Landon Harmon
+	RHP	East Union Attendance Center HS	HS	MS	Y	$2,500,000	
+2025	3	81	Toronto Blue JaysTeam Logo of Toronto Blue Jays	
+Headshot of Jake Cook
+Jake Cook
+	OF	Southern Mississippi	4YR	MS	Y	$922,500	
+2025	3	82	Pittsburgh PiratesTeam Logo of Pittsburgh Pirates	
+Headshot of Easton Carmichael
+Easton Carmichael
+	C	Oklahoma	4YR	OK	Y	$977,000	
+2025	3	83	Cincinnati RedsTeam Logo of Cincinnati Reds	
+Headshot of Mason Morris
+Mason Morris
+	RHP	Ole Miss	4YR	MS	Y	$897,500	
+2025	3	84	Texas RangersTeam Logo of Texas Rangers	
+Headshot of Josh Owens
+Josh Owens
+	TWP	Providence Academy	HS	TN	Y	$1,100,000	
+2025	3	85	San Francisco GiantsTeam Logo of San Francisco Giants	
+Trevor Cohen
+	OF	Rutgers	4YR	NJ	Y	$847,500	
+2025	3	86	Tampa Bay RaysTeam Logo of Tampa Bay Rays	
+Headshot of Taitn Gray
+Taitn Gray
+	C	Dallas Center-Grimes HS	HS	IA	Y	$918,300	
+2025	3	87	Boston Red SoxTeam Logo of Boston Red Sox	
+Headshot of Anthony Eyanson
+Anthony Eyanson
+	RHP	LSU	4YR	LA	Y	$1,750,000	
+2025	3	88	Minnesota TwinsTeam Logo of Minnesota Twins	
+Headshot of James Ellwanger
+James Ellwanger
+	RHP	Dallas Baptist	4YR	TX	Y	$1,000,000	
+2025	3	89	St. Louis CardinalsTeam Logo of St. Louis Cardinals	
+Headshot of Jack Gurevitch
+Jack Gurevitch
+	1B	University Of San Diego	4YR	CA	Y	$879,000	
+2025	3	90	Chicago CubsTeam Logo of Chicago Cubs	
+Headshot of Dominick Reid
+Dominick Reid
+	RHP	Abilene Christian	4YR	TX	Y	$649,125	
+2025	3	91	Seattle MarinersTeam Logo of Seattle Mariners	
+Headshot of Griffin Hugus
+Griffin Hugus
+	RHP	Miami	4YR	FL	Y	$640,000	
+2025	3	92	Arizona DiamondbacksTeam Logo of Arizona Diamondbacks	
+Headshot of Brian Curley
+Brian Curley
+	RHP	Georgia	4YR	GA	Y	$700,000	
+2025	3	93	Baltimore OriolesTeam Logo of Baltimore Orioles	
+Headshot of RJ Austin
+RJ Austin
+	OF	Vanderbilt	4YR	TN	Y	$823,900	
+2025	3	94	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Headshot of Jacob Morrison
+Jacob Morrison
+	RHP	Coastal Carolina	4YR	SC	Y	$697,500	
+2025	3	95	Houston AstrosTeam Logo of Houston Astros	
+Headshot of Ethan Frey
+Ethan Frey
+	OF	LSU	4YR	LA	Y	$997,500	
+2025	3	96	Atlanta BravesTeam Logo of Atlanta Braves	
+Cody Miller
+	SS	East Tennessee State	4YR	TN	Y	$297,500	
+2025	3	97	Kansas City RoyalsTeam Logo of Kansas City Royals	
+Headshot of Cameron Millar
+Cameron Millar
+	RHP	Alhambra HS	HS	CA	Y	$1,497,500	
+2025	3	98	Detroit TigersTeam Logo of Detroit Tigers	
+Headshot of Ben Jacobs
+Ben Jacobs
+	LHP	Arizona State	4YR	AZ	Y	$722,500	
+2025	3	99	San Diego PadresTeam Logo of San Diego Padres	
+Headshot of Ryan Wideman
+Ryan Wideman
+	OF	Western Kentucky	4YR	KY	Y	$650,000	
+2025	3	100	Philadelphia PhilliesTeam Logo of Philadelphia Phillies	
+Headshot of Cody Bowker
+Cody Bowker
+	RHP	Vanderbilt	4YR	TN	Y	$700,000	
+2025	3	101	Cleveland GuardiansTeam Logo of Cleveland Guardians	
+Headshot of Nolan Schubart
+Nolan Schubart
+	OF	Oklahoma State	4YR	OK	Y	$730,000	
+2025	3	102	New York MetsTeam Logo of New York Mets	
+Headshot of Antonio Jimenez
+Antonio Jimenez
+	SS	Central Florida	4YR	FL	Y	$564,000	
+2025	3	103	New York YankeesTeam Logo of New York Yankees	
+Kaeden Kent
+	SS	Texas A&M	4YR	TX	Y	$741,900	
+2025	3	104	Los Angeles DodgersTeam Logo of Los Angeles Dodgers	
+Landyn Vidourek
+	OF	Cincinnati	4YR	OH	Y	$552,750	
+2025	SUP-3	105	Los Angeles AngelsTeam Logo of Los Angeles Angels	
+Headshot of Nate Snead
+Nate Snead
+	RHP	Tennessee	4YR	TN	Y	$597,500	
+2025	5	161	Philadelphia PhilliesTeam Logo of Philadelphia Phillies	
+Headshot of Gabe Craig
+Gabe Craig
+	RHP	Baylor	4YR	TX	Y	$197,500	
+2025	16	485	Milwaukee BrewersTeam Logo of Milwaukee Brewers	
+Parker Coil
+	LHP	Arkansas	4YR	AR	N		

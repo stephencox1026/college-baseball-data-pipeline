@@ -1,0 +1,615 @@
+2025	1	1	Washington Nationals	Eli Willits	SS	Fort Cobb-Broxton HS
+2025	1	2	Los Angeles Angels	Tyler Bremner	RHP	UC Santa Barbara
+2025	1	3	Seattle Mariners	Kade Anderson	LHP	LSU
+2025	1	4	Colorado Rockies	Ethan Holliday	SS	Stillwater HS
+2025	1	5	St. Louis Cardinals	Liam Doyle	LHP	Tennessee
+2025	1	6	Pittsburgh Pirates	Seth Hernandez	RHP	Corona HS
+2025	1	7	Miami Marlins	Aiva Arquette	SS	Oregon State
+2025	1	8	Toronto Blue Jays	Joseph Parker	SS	Purvis HS
+2025	1	9	Cincinnati Reds	Steele Hall	SS	Hewitt-Trussville HS
+2025	1	10	Chicago White Sox	Billy Carlson	SS	Corona HS
+2025	1	11	Athletics	Jamie Arnold	LHP	Florida State
+2025	1	12	Texas Rangers	Gavin Fien	SS	Great Oak HS
+2025	1	13	San Francisco Giants	Gavin Kilen	SS	Tennessee
+2025	1	14	Tampa Bay Rays	Daniel Pierce	SS	Mill Creek HS
+2025	1	15	Boston Red Sox	Kyson Witherspoon	RHP	Oklahoma
+2025	1	16	Minnesota Twins	Marek Houston	SS	Wake Forest
+2025	1	17	Chicago Cubs	Ethan Conrad	OF	Wake Forest
+2025	1	18	Arizona Diamondbacks	Kayson Cunningham	SS	Lady Bird Johnson HS
+2025	1	19	Baltimore Orioles	Ike Irish	C	Auburn
+2025	1	20	Milwaukee Brewers	Andrew Fischer	3B	Tennessee
+2025	1	21	Houston Astros	Xavier Neyens	SS	Mt. Vernon HS
+2025	1	22	Atlanta Braves	Tate Southisene	SS	Basic HS
+2025	1	23	Kansas City Royals	Sean Gamble	OF	IMG Academy
+2025	1	24	Detroit Tigers	Jordan Yost	SS	Sickles HS
+2025	1	25	San Diego Padres	Kruz Schoolcraft	LHP	Sunset HS
+2025	1	26	Philadelphia Phillies	Gage Wood	RHP	Arkansas
+2025	1	27	Cleveland Guardians	Jace LaViolette	OF	Texas A&M
+2025	None	28	Kansas City Royals	Josh Hammond	SS	Wesleyan Christian Academy
+2025	1	29	Arizona Diamondbacks	Patrick Forbes	RHP	Louisville
+2025	1	30	Baltimore Orioles	Caden Bodine	C	Coastal Carolina
+2025	1	31	Baltimore Orioles	Wehiwa Aloy	SS	Arkansas
+2025	1	32	Milwaukee Brewers	Brady Ebel	SS	Corona HS
+2025	None	33	Boston Red Sox	Marcus Phillips	RHP	Tennessee
+2025	None	34	Detroit Tigers	Michael Oliveto	C	Hauppauge HS
+2025	None	35	Seattle Mariners	Luke Stevenson	C	North Carolina
+2025	None	36	Minnesota Twins	Riley Quick	RHP	Alabama
+2025	None	37	Baltimore Orioles	Slater de Brun	OF	Summit HS
+2025	1	38	New York Mets	Mitch Voit	TWP	Michigan
+2025	1	39	New York Yankees	Dax Kilby	SS	Newnan HS
+2025	1	40	Los Angeles Dodgers	Zach Root	LHP	Arkansas
+2025	None	41	Los Angeles Dodgers	Charles Davalan	OF	Arkansas
+2025	None	42	Tampa Bay Rays	Brendan Summerhill	OF	Arizona
+2025	None	43	Miami Marlins	Cam Cannarella	OF	Clemson
+2025	2	44	Chicago White Sox	Jaden Fauske	OF	Nazareth Academy
+2025	2	45	Colorado Rockies	J.B. Middleton	RHP	Southern Mississippi
+2025	2	46	Miami Marlins	Brandon Compton	OF	Arizona State
+2025	2	47	Los Angeles Angels	Chase Shores	RHP	LSU
+2025	2	48	Athletics	Devin Taylor	OF	Indiana
+2025	2	49	Washington Nationals	Ethan Petry	OF	South Carolina
+2025	2	50	Pittsburgh Pirates	Angel Cervantes	RHP	Warren HS
+2025	2	51	Cincinnati Reds	Aaron Watson	RHP	Trinity Christian Academy
+2025	2	52	Texas Rangers	A.J. Russell	RHP	Tennessee
+2025	2	53	Tampa Bay Rays	Cooper Flemming	SS	Ganesha HS
+2025	2	54	Minnesota Twins	Quentin Young	SS	Oaks Christian HS
+2025	2	55	St. Louis Cardinals	Ryan Mitchell	OF	Houston HS
+2025	2	56	Chicago Cubs	Kane Kepley	OF	North Carolina
+2025	2	57	Seattle Mariners	Nick Becker	SS	Don Bosco Prep HS
+2025	2	58	Baltimore Orioles	Joseph Dzierwa	LHP	Michigan State
+2025	2	59	Milwaukee Brewers	JD Thompson	LHP	Vanderbilt
+2025	2	60	Atlanta Braves	Alex Lodise	SS	Florida State
+2025	2	61	Kansas City Royals	Michael Lombardi	RHP	Tulane
+2025	2	62	Detroit Tigers	Malachi Witherspoon	RHP	Oklahoma
+2025	2	63	Philadelphia Phillies	Cade Obermueller	LHP	Iowa
+2025	2	64	Cleveland Guardians	Dean Curley	SS	Tennessee
+2025	2	65	Los Angeles Dodgers	Cam Leiter	RHP	Florida State
+2025	None	66	Cleveland Guardians	Aaron Walton	OF	Arizona
+2025	None	67	Tampa Bay Rays	Dean Moss	OF	IMG Academy
+2025	None	68	Milwaukee Brewers	Frank Cairone	LHP	Delsea Reg HS
+2025	None	69	Baltimore Orioles	J.T. Quinn	RHP	Georgia
+2025	None	70	Cleveland Guardians	Will Hynes	RHP	Lorne Park SS
+2025	None	71	Kansas City Royals	Justin Lamkin	LHP	Texas A&M
+2025	None	72	St. Louis Cardinals	Tanner Franklin	RHP	Tennessee
+2025	None	73	Pittsburgh Pirates	Murf Gray	3B	Fresno State
+2025	None	74	Colorado Rockies	Max Belyeu	OF	Texas
+2025	2	75	Boston Red Sox	Henry Godbout	SS	Virginia
+2025	3	76	Chicago White Sox	Kyle Lodise	SS	Georgia Tech
+2025	3	77	Colorado Rockies	Ethan Hedges	3B	USC
+2025	3	78	Miami Marlins	Max Williams	OF	Florida State
+2025	3	79	Los Angeles Angels	Johnny Slawinski	LHP	Lyndon B. Johnson HS
+2025	3	80	Washington Nationals	Landon Harmon	RHP	East Union Attendance Center HS
+2025	3	81	Toronto Blue Jays	Jake Cook	OF	Southern Mississippi
+2025	3	82	Pittsburgh Pirates	Easton Carmichael	C	Oklahoma
+2025	3	83	Cincinnati Reds	Mason Morris	RHP	Ole Miss
+2025	3	84	Texas Rangers	Josh Owens	TWP	Providence Academy
+2025	3	85	San Francisco Giants	Trevor Cohen	OF	Rutgers
+2025	3	86	Tampa Bay Rays	Taitn Gray	C	Dallas Center-Grimes HS
+2025	3	87	Boston Red Sox	Anthony Eyanson	RHP	LSU
+2025	3	88	Minnesota Twins	James Ellwanger	RHP	Dallas Baptist
+2025	3	89	St. Louis Cardinals	Jack Gurevitch	1B	University Of San Diego
+2025	3	90	Chicago Cubs	Dominick Reid	RHP	Abilene Christian
+2025	3	91	Seattle Mariners	Griffin Hugus	RHP	Miami
+2025	3	92	Arizona Diamondbacks	Brian Curley	RHP	Georgia
+2025	3	93	Baltimore Orioles	RJ Austin	OF	Vanderbilt
+2025	3	94	Milwaukee Brewers	Jacob Morrison	RHP	Coastal Carolina
+2025	3	95	Houston Astros	Ethan Frey	OF	LSU
+2025	3	96	Atlanta Braves	Cody Miller	SS	East Tennessee State
+2025	3	97	Kansas City Royals	Cameron Millar	RHP	Alhambra HS
+2025	3	98	Detroit Tigers	Ben Jacobs	LHP	Arizona State
+2025	3	99	San Diego Padres	Ryan Wideman	OF	Western Kentucky
+2025	3	100	Philadelphia Phillies	Cody Bowker	RHP	Vanderbilt
+2025	3	101	Cleveland Guardians	Nolan Schubart	OF	Oklahoma State
+2025	3	102	New York Mets	Antonio Jimenez	SS	Central Florida
+2025	3	103	New York Yankees	Kaeden Kent	SS	Texas A&M
+2025	3	104	Los Angeles Dodgers	Landyn Vidourek	OF	Cincinnati
+2025	None	105	Los Angeles Angels	Nate Snead	RHP	Tennessee
+2025	4	106	Chicago White Sox	Landon Hodge	C	Crespi Carmelite HS
+2025	4	107	Colorado Rockies	Riley Kelly	RHP	University Of California - Irvine
+2025	4	108	Miami Marlins	Drew Faurot	SS	Florida State
+2025	4	109	Los Angeles Angels	Jake Munroe	3B	Louisville
+2025	4	110	Athletics	Gavin Turley	OF	Oregon State
+2025	4	111	Washington Nationals	Miguel Sime	RHP	Poly Prep Country Day School
+2025	4	112	Toronto Blue Jays	Micah Bucknam	RHP	Dallas Baptist
+2025	4	113	Pittsburgh Pirates	Gustavo Melendez	SS	Colegio Nuestra SeÃ±ora de la Merced
+2025	4	114	Cincinnati Reds	Mason Neville	OF	Oregon
+2025	4	115	Texas Rangers	Mason McConnaughey	RHP	Nebraska
+2025	4	116	San Francisco Giants	Lorenzo Meola	SS	Stetson
+2025	4	117	Tampa Bay Rays	Dominic Fritton	LHP	NC State
+2025	4	118	Boston Red Sox	Mason White	SS	Arizona
+2025	4	119	Minnesota Twins	Jason Reitz	RHP	Oregon
+2025	4	120	St. Louis Cardinals	Cade Crossland	LHP	Oklahoma
+2025	4	121	Chicago Cubs	Kaleb Wing	RHP	Scotts Valley HS
+2025	4	122	Seattle Mariners	Mason Peters	LHP	Dallas Baptist
+2025	4	123	Arizona Diamondbacks	Dean Livingston	RHP	Hebron Christian Academy
+2025	4	124	Baltimore Orioles	Colin Yeaman	SS	University Of California - Irvine
+2025	4	125	Milwaukee Brewers	Joshua Flores	RHP	Lake Central HS
+2025	4	126	Houston Astros	Nick Monistere	IF	Southern Mississippi
+2025	4	127	Atlanta Braves	Briggs McKenzie	LHP	Corinth Holders HS
+2025	4	128	Kansas City Royals	Nolan Sailors	OF	Creighton
+2025	4	129	Detroit Tigers	Caleb Leys	LHP	University Of Maine
+2025	4	130	San Diego Padres	Michael Salina	RHP	St. Bonaventure
+2025	4	131	Philadelphia Phillies	Sean Youngerman	RHP	Oklahoma State
+2025	4	132	Cleveland Guardians	Luke Hill	3B	Ole Miss
+2025	4	133	New York Mets	Peter Kussow	RHP	Arrowhead Union HS
+2025	4	134	New York Yankees	Pico Kohn	LHP	Mississippi State
+2025	4	135	Los Angeles Dodgers	Aidan West	SS	Long Reach HS
+2025	4	136	Atlanta Braves	Dixon Williams	2B	East Carolina
+2025	5	137	Chicago White Sox	Gabe Davis	RHP	Oklahoma State
+2025	5	138	Colorado Rockies	Cameron Nelson	OF	Wake Forest
+2025	5	139	Miami Marlins	Chris Arroyo	1B	Virginia
+2025	5	140	Los Angeles Angels	CJ Gray	RHP	A.L. Brown HS
+2025	5	141	Athletics	Zane Taylor	RHP	UNC Wilmington
+2025	5	142	Washington Nationals	Coy James	SS	Davie HS
+2025	5	143	Toronto Blue Jays	Tim Piasentin	3B	Foothills Composite HS
+2025	5	144	Pittsburgh Pirates	Adonys Guzman	C	Arizona
+2025	5	145	Cincinnati Reds	Eli Pitts	OF	North Atlanta HS
+2025	5	146	Texas Rangers	Ben Abeldt	LHP	TCU
+2025	5	147	Tampa Bay Rays	James Quinn-Irons	OF	George Mason
+2025	5	148	Boston Red Sox	Christian Foutch	RHP	Arkansas
+2025	5	149	Minnesota Twins	Matt Barr	RHP	SUNY Niagara CC
+2025	5	150	St. Louis Cardinals	Ethan Young	RHP	East Carolina
+2025	5	151	Chicago Cubs	Kade Snell	OF	Alabama
+2025	5	152	Seattle Mariners	Korbyn Dickerson	OF	Indiana
+2025	5	153	Arizona Diamondbacks	Nathan Hall	OF	South Carolina
+2025	5	154	Baltimore Orioles	Jaiden Lo Re	SS	Corona Del Sol HS
+2025	5	155	Milwaukee Brewers	Sean Episcope	RHP	Princeton
+2025	5	156	Houston Astros	Nick Potter	RHP	Wichita State
+2025	5	157	Atlanta Braves	Conor Essenburg	OF	Lincoln-Way West HS
+2025	5	158	Kansas City Royals	Aiden Jimenez	RHP	Arkansas
+2025	5	159	Detroit Tigers	Ryan Hall	RHP	North Gwinnett HS
+2025	5	160	San Diego Padres	Ty Harvey	C	Inspiration Academy
+2025	5	161	Philadelphia Phillies	Gabe Craig	RHP	Baylor
+2025	5	162	Cleveland Guardians	Riley Nelson	1B	Vanderbilt
+2025	5	163	New York Mets	Peyton Prescott	RHP	Florida State
+2025	5	164	New York Yankees	Core Jackson	SS	Utah
+2025	5	165	Los Angeles Dodgers	Davion Hickson	RHP	Rice
+2025	6	166	Chicago White Sox	Colby Shelton	SS	Florida
+2025	6	167	Colorado Rockies	Matt Klein	C	Louisville
+2025	6	168	Miami Marlins	Joey Volini	LHP	Florida State
+2025	6	169	Los Angeles Angels	Luke LaCourse	RHP	Bay City Western HS
+2025	6	170	Athletics	Grant Richardson	LHP	Grand Canyon University
+2025	6	171	Washington Nationals	Boston Smith	C	Wright State
+2025	6	172	Toronto Blue Jays	Eric Snow	SS	Auburn
+2025	6	173	Pittsburgh Pirates	Jack Anker	RHP	Fresno State
+2025	6	174	Cincinnati Reds	Braden Osbolt	RHP	Kennesaw State
+2025	6	175	Texas Rangers	Jack Wheeler	3B	Morris HS
+2025	6	176	San Francisco Giants	Jordan Gottesman	LHP	Northeastern
+2025	6	177	Tampa Bay Rays	Aidan Haugh	RHP	North Carolina
+2025	6	178	Boston Red Sox	Leighton Finley	RHP	Georgia
+2025	6	179	Minnesota Twins	Bruin Agbayani	SS	Saint Louis School
+2025	6	180	St. Louis Cardinals	Matthew Miura	OF	Hawaii
+2025	6	181	Chicago Cubs	Josiah Hartshorn	OF	Orange Lutheran HS
+2025	6	182	Seattle Mariners	Lucas Kelly	RHP	Arizona State
+2025	6	183	Arizona Diamondbacks	Sawyer Hawks	RHP	Vanderbilt
+2025	6	184	Baltimore Orioles	Caden Hunter	LHP	USC
+2025	6	185	Milwaukee Brewers	Daniel Dickinson	SS	LSU
+2025	6	186	Houston Astros	Gabel Pentecost	RHP	Taylor University
+2025	6	187	Atlanta Braves	Landon Beidelschies	LHP	Arkansas
+2025	6	188	Kansas City Royals	Tyriq Kemp	SS	Baylor
+2025	6	189	Detroit Tigers	Grayson Grinsell	LHP	Oregon
+2025	6	190	San Diego Padres	Jaxon Dalena	RHP	Shippensburg University
+2025	6	191	Philadelphia Phillies	James Tallon	LHP	Duke
+2025	6	192	Cleveland Guardians	Nelson Keljo	LHP	Oregon State
+2025	6	193	New York Mets	Nathan Hall	RHP	University Of Central Missouri
+2025	6	194	New York Yankees	Rory Fox	RHP	Notre Dame
+2025	6	195	Los Angeles Dodgers	Mason Ligenza	OF	Tamaqua Area HS
+2025	7	196	Chicago White Sox	Anthony DePino	3B	University Of Rhode Island
+2025	7	197	Colorado Rockies	Antoine Jean	LHP	Houston
+2025	7	198	Miami Marlins	Jake Clemente	RHP	Florida
+2025	7	199	Los Angeles Angels	Lucas Mahlstedt	RHP	Clemson
+2025	7	200	Athletics	Logan Sauve	C	West Virginia
+2025	7	201	Washington Nationals	Julian Tonghini	RHP	Arizona
+2025	7	202	Toronto Blue Jays	Dylan Watts	RHP	Auburn
+2025	7	203	Pittsburgh Pirates	Brent Iredale	3B	Arkansas
+2025	7	204	Cincinnati Reds	Justin Henschel	RHP	Florida Gulf Coast University
+2025	7	205	Texas Rangers	Paxton Kling	OF	Penn State
+2025	7	206	San Francisco Giants	Cam Maldonado	OF	Northeastern
+2025	7	207	Tampa Bay Rays	Jacob Kuhn	RHP	Midland College
+2025	7	208	Boston Red Sox	Myles Patton	LHP	Texas A&M
+2025	7	209	Minnesota Twins	Jacob McCombs	OF	University Of California - Irvine
+2025	7	210	St. Louis Cardinals	Payton Graham	RHP	Gonzaga
+2025	7	211	Chicago Cubs	Pierce Coppola	LHP	Florida
+2025	7	212	Seattle Mariners	Colton Shaw	RHP	Yale
+2025	7	213	Arizona Diamondbacks	Joe Ariola	LHP	Wake Forest
+2025	7	214	Baltimore Orioles	Hunter Allen	RHP	Ashland University
+2025	7	215	Milwaukee Brewers	Josiah Ragsdale	OF	Boston College
+2025	7	216	Houston Astros	Jase Mitchell	C	Cape Henlopen HS
+2025	7	217	Atlanta Braves	Zach Royse	RHP	UTSA
+2025	7	218	Kansas City Royals	Bryson Dudley	RHP	Texas State
+2025	7	219	Detroit Tigers	Cale Wetwiska	RHP	Northern Oklahoma College-Enid
+2025	7	220	San Diego Padres	Kerrington Cross	3B	Cincinnati
+2025	7	221	Philadelphia Phillies	Matthew Fisher	RHP	Memorial HS
+2025	7	222	Cleveland Guardians	Will McCausland	RHP	Ole Miss
+2025	7	223	New York Mets	Cam Tilly	RHP	Auburn
+2025	7	224	New York Yankees	Richie Bonomolo	OF	Alabama
+2025	7	225	Los Angeles Dodgers	Mason Estrada	RHP	MIT
+2025	8	226	Chicago White Sox	Blaine Wynk	RHP	Ohio State
+2025	8	227	Colorado Rockies	Tanner Thach	1B	UNC Wilmington
+2025	8	228	Miami Marlins	Emilio Barreras	SS	Grand Canyon University
+2025	8	229	Los Angeles Angels	Isaiah Jackson	OF	Arizona State
+2025	8	230	Athletics	Corey Braun	LHP	South Florida
+2025	8	231	Washington Nationals	Riley Maddox	RHP	Ole Miss
+2025	8	232	Toronto Blue Jays	Danny Thompson	RHP	UNC Greensboro
+2025	8	233	Pittsburgh Pirates	Josh Tate	OF	Georgia Southern
+2025	8	234	Cincinnati Reds	Kyle McCoy	LHP	Maryland
+2025	8	235	Texas Rangers	Evan Siary	RHP	Mississippi State
+2025	8	236	San Francisco Giants	Ben Bybee	RHP	Arkansas
+2025	8	237	Tampa Bay Rays	Aidan Cremarosa	RHP	Fresno State
+2025	8	238	Boston Red Sox	Dylan Brown	LHP	Old Dominion
+2025	8	239	Minnesota Twins	Ryan Sprock	3B	Elon University
+2025	8	240	St. Louis Cardinals	Ryan Weingartner	SS	Penn State
+2025	8	241	Chicago Cubs	Jake Knapp	RHP	North Carolina
+2025	8	242	Seattle Mariners	Danny Macchiarola	RHP	Holy Cross
+2025	8	243	Arizona Diamondbacks	Jack Martinez	RHP	Arizona State
+2025	8	244	Baltimore Orioles	Kailen Hamson	LHP	University of the Cumberlands
+2025	8	245	Milwaukee Brewers	Hayden Vucinovich	RHP	Bloomington Jefferson HS
+2025	8	246	Houston Astros	Kyle Walker	2B	Arizona State
+2025	8	247	Atlanta Braves	Carter Lovasz	RHP	William & Mary
+2025	8	248	Kansas City Royals	Brooks Bryan	C	Troy University
+2025	8	249	Detroit Tigers	Nick Dumesnil	OF	California Baptist University
+2025	8	250	San Diego Padres	James Hitt	LHP	Oklahoma
+2025	8	251	Philadelphia Phillies	Brian Walters	RHP	Miami
+2025	8	252	Cleveland Guardians	Anthony Martinez	1B	University Of California - Irvine
+2025	8	253	New York Mets	Camden Lohman	RHP	Ft. Zumwalt North HS
+2025	8	254	New York Yankees	Mac Heuer	RHP	Texas Tech
+2025	8	255	Los Angeles Dodgers	Jack O'Connor	RHP	Virginia
+2025	9	256	Chicago White Sox	Riley Eikhoff	RHP	Coastal Carolina
+2025	9	257	Colorado Rockies	Zach Rogacki	C	SUNY Binghamton
+2025	9	258	Miami Marlins	Kaiden Wilson	LHP	Texas A&M
+2025	9	259	Los Angeles Angels	Slate Alford	3B	Georgia
+2025	9	260	Athletics	Daniel Bucciero	3B	Fordham
+2025	9	261	Washington Nationals	Wyatt Henseler	3B	Texas A&M
+2025	9	262	Toronto Blue Jays	Karson Ligon	RHP	Mississippi State
+2025	9	263	Pittsburgh Pirates	Jared Jones	1B	LSU
+2025	9	264	Cincinnati Reds	Kien Vu	OF	Arizona State
+2025	9	265	Texas Rangers	Owen Proksch	LHP	Duke
+2025	9	266	San Francisco Giants	Reid Worley	RHP	Cherokee HS
+2025	9	267	Tampa Bay Rays	Mason Nichols	RHP	Ole Miss
+2025	9	268	Boston Red Sox	Jacob Mayers	RHP	LSU
+2025	9	269	Minnesota Twins	Justin Mitrovich	RHP	Elon University
+2025	9	270	St. Louis Cardinals	Michael Dattalo	3B	Dallas Baptist
+2025	9	271	Chicago Cubs	Colton Book	LHP	Saint Joseph's
+2025	9	272	Seattle Mariners	Jackson Steensma	RHP	Appalachian State
+2025	9	273	Arizona Diamondbacks	Wallace Clark	SS	Duke
+2025	9	274	Baltimore Orioles	Cam Lee	OF	Mineral Area JC
+2025	9	275	Milwaukee Brewers	Andrew Healy	LHP	Duke
+2025	9	276	Houston Astros	Kellan Oakes	RHP	Oregon State
+2025	9	277	Atlanta Braves	Logan Braunschweig	OF	UAB
+2025	9	278	Kansas City Royals	Shane Van Dam	RHP	NC State
+2025	9	279	Detroit Tigers	Trevor Heishman	LHP	St. John Bosco HS
+2025	9	280	San Diego Padres	Will Koger	RHP	Arizona State
+2025	9	281	Philadelphia Phillies	Matthew Ferrara	SS	Toms River HS East
+2025	9	282	Cleveland Guardians	Ryan Prager	LHP	Texas A&M
+2025	9	283	New York Mets	Anthony Frobose	SS	Lakeland HS
+2025	9	284	New York Yankees	Blake Gillespie	RHP	UNC Charlotte
+2025	9	285	Los Angeles Dodgers	Conner O'Neal	C	Southeastern Louisiana U
+2025	10	286	Chicago White Sox	Dan Wright	RHP	Iowa
+2025	10	287	Colorado Rockies	Austin Newton	RHP	South Florida
+2025	10	288	Miami Marlins	Jake McCutcheon	2B	Missouri State
+2025	10	289	Los Angeles Angels	Nick Rodriguez	2B	Missouri State
+2025	10	290	Athletics	Samuel Dutton	RHP	Auburn
+2025	10	291	Washington Nationals	Hunter Hines	1B	Mississippi State
+2025	10	292	Toronto Blue Jays	Austin Smith	OF	University Of San Diego
+2025	10	293	Pittsburgh Pirates	Matt King	SS	Arizona State
+2025	10	294	Cincinnati Reds	Ty Doucette	1B	Rutgers
+2025	10	295	Texas Rangers	J.D. McReynolds	RHP	University Of Central Missouri
+2025	10	296	San Francisco Giants	Isaiah Barkett	2B	Stetson
+2025	10	297	Tampa Bay Rays	Trendan Parish	RHP	Texas Tech
+2025	10	298	Boston Red Sox	Maximus Martin	SS	Kansas State
+2025	10	299	Minnesota Twins	Shai Robinson	SS	Illinois State
+2025	10	300	St. Louis Cardinals	Ty Van Dyke	RHP	Stetson
+2025	10	301	Chicago Cubs	Justin Stransky	C	Fresno State
+2025	10	302	Seattle Mariners	Isaac Lyon	RHP	Grand Canyon University
+2025	10	303	Arizona Diamondbacks	Brady Counsell	SS	Kansas
+2025	10	304	Baltimore Orioles	Dalton Neuschwander	RHP	University Of West Florida
+2025	10	305	Milwaukee Brewers	Braylon Owens	RHP	UTSA
+2025	10	306	Houston Astros	Zach Daudet	SS	Cal Poly San Luis Obispo
+2025	10	307	Atlanta Braves	Kade Woods	RHP	LSU
+2025	10	308	Kansas City Royals	Max Martin	RHP	University Of California - Irvine
+2025	10	309	Detroit Tigers	Edian Espinal	C	Central Florida
+2025	10	310	San Diego Padres	Justin DeCriscio	SS	NC State
+2025	10	311	Philadelphia Phillies	Cole Gilley	RHP	Indiana
+2025	10	312	Cleveland Guardians	Harrison Bodendorf	LHP	Oklahoma State
+2025	10	313	New York Mets	Tyler McLoughlin	RHP	Georgia
+2025	10	314	New York Yankees	Connor McGinnis	2B	Houston
+2025	10	315	Los Angeles Dodgers	Jacob Frost	LHP	Kansas State
+2025	11	316	Chicago White Sox	Matthew Boughton	SS	Covenant HS
+2025	11	317	Colorado Rockies	Zach Harris	RHP	Georgia
+2025	11	318	Miami Marlins	Jadon Williamson	RHP	Lewis-Clark State College
+2025	11	319	Los Angeles Angels	Alton Davis	LHP	Georgia
+2025	11	320	Athletics	Bobby Boser	SS	Florida
+2025	11	321	Washington Nationals	Jack Moroknek	OF	Butler
+2025	11	322	Toronto Blue Jays	Jared Spencer	LHP	Texas
+2025	11	323	Pittsburgh Pirates	Dylan Palmer	2B	Hofstra
+2025	11	324	Cincinnati Reds	Jake Brink	RHP	College of Charleston
+2025	11	325	Texas Rangers	Jacob Johnson	RHP	Pearl River CC
+2025	11	326	San Francisco Giants	Rod Barajas	C	Saddleback College
+2025	11	327	Tampa Bay Rays	Luke Jackson	RHP	Texas A&M
+2025	11	328	Boston Red Sox	Barrett Morgan	RHP	Cowley County CC
+2025	11	329	Minnesota Twins	Ryan Daniels	2B	Connecticut
+2025	11	330	St. Louis Cardinals	Jalin Flores	SS	Texas
+2025	11	331	Chicago Cubs	Eli Jerzembeck	RHP	South Carolina
+2025	11	332	Seattle Mariners	Dusty Revis	RHP	Western Carolina
+2025	11	333	Arizona Diamondbacks	Luke Dotson	LHP	Mississippi State
+2025	11	334	Baltimore Orioles	Holden deJong	LHP	New Jersey Institute of Technology
+2025	11	335	Milwaukee Brewers	CJ Hughes	SS	Junipero Serra HS
+2025	11	336	Houston Astros	Justin Thomas	OF	Arkansas
+2025	11	337	Atlanta Braves	Colin Daniel	RHP	U Alabama Birmingham
+2025	11	338	Kansas City Royals	Hunter Alberini	RHP	Arizona
+2025	11	339	Detroit Tigers	River Hamilton	RHP	Sam Barlow HS
+2025	11	340	San Diego Padres	Truitt Madonna	C	Ballard HS
+2025	11	341	Philadelphia Phillies	Will Vierling	C	Murray State University
+2025	11	342	Cleveland Guardians	Tyler Howard	C	University Of Portland
+2025	11	343	New York Mets	Wyatt Vincent	OF	Nixa HS
+2025	11	344	New York Yankees	Ben Grable	RHP	Indiana
+2025	11	345	Los Angeles Dodgers	Dylan Tate	RHP	Oklahoma
+2025	12	346	Chicago White Sox	Ely Brown	OF	Mercer U
+2025	12	347	Colorado Rockies	Brady Parker	LHP	Houston-Victoria
+2025	12	348	Miami Marlins	Wilson Weber	C	Oregon State
+2025	12	349	Los Angeles Angels	Talon Haley	LHP	Lewisburg HS
+2025	12	350	Athletics	Alex Barr	LHP	Kankakee Valley HS
+2025	12	351	Washington Nationals	Ben Moore	LHP	Old Dominion
+2025	12	352	Toronto Blue Jays	Blaine Bullard	OF	Klein Cain HS
+2025	12	353	Pittsburgh Pirates	Cameron Keshock	RHP	Samford University
+2025	12	354	Cincinnati Reds	Carson Latimer	RHP	Sacramento State
+2025	12	355	Texas Rangers	Jake Barbee	RHP	Jay M Robinson HS
+2025	12	356	San Francisco Giants	Cody Delvecchio	RHP	UCLA
+2025	12	357	Tampa Bay Rays	Brady Jones	RHP	Georgia Tech
+2025	12	358	Boston Red Sox	Ethan Walker	LHP	Kentucky
+2025	12	359	Minnesota Twins	Kolten Smith	RHP	Georgia
+2025	12	360	St. Louis Cardinals	Kaden Echeman	RHP	Northern Kentucky
+2025	12	361	Chicago Cubs	Connor Spencer	RHP	Ole Miss
+2025	12	362	Seattle Mariners	Grant Jay	C	Dallas Baptist
+2025	12	363	Arizona Diamondbacks	Tayler Montiel	LHP	Tulane
+2025	12	364	Baltimore Orioles	Daniel Lopez	RHP	Odessa College
+2025	12	365	Milwaukee Brewers	Cooper Underwood	LHP	Allatoona HS
+2025	12	366	Houston Astros	Elijah Farley	OF	Navarro HS
+2025	12	367	Atlanta Braves	Jay Woolfolk	RHP	Virginia
+2025	12	368	Kansas City Royals	Matthew Hoskins	RHP	Georgia
+2025	12	369	Detroit Tigers	Cash Kuiper	RHP	Murray State College
+2025	12	370	San Diego Padres	George Bilecki	OF	Lewis U
+2025	12	371	Philadelphia Phillies	Tyler Bowen	RHP	Lander University
+2025	12	372	Cleveland Guardians	Ryan DeSanto	LHP	Penn State
+2025	12	373	New York Mets	Truman Pauley	RHP	Harvard
+2025	12	374	New York Yankees	Camden Troyer	OF	Liberty University
+2025	12	375	Los Angeles Dodgers	Logan Lunceford	RHP	Wake Forest
+2025	13	376	Chicago White Sox	Rylan Galvan	C	Texas
+2025	13	377	Colorado Rockies	Izeah Muniz	RHP	Mt. San Antonio College
+2025	13	378	Miami Marlins	Chase Renner	RHP	Penn State
+2025	13	379	Los Angeles Angels	Robert Mitchell	LHP	Prestonwood Christian Academy
+2025	13	380	Athletics	Bryan Arendt	C	UNC Wilmington
+2025	13	381	Washington Nationals	Tucker Biven	RHP	Louisville
+2025	13	382	Toronto Blue Jays	Trace Baker	RHP	UNC Wilmington
+2025	13	383	Pittsburgh Pirates	Dylan Mathiesen	RHP	Liberty University
+2025	13	384	Cincinnati Reds	Brady Afthim	RHP	Connecticut
+2025	13	385	Texas Rangers	Aiden Robertson	RHP	Walters State CC
+2025	13	386	San Francisco Giants	Broedy Poppell	C	Florida A&M
+2025	13	387	Tampa Bay Rays	Ethan Storm	RHP	Rock Valley College
+2025	13	388	Boston Red Sox	Jack Winnay	3B	Wake Forest
+2025	13	389	Minnesota Twins	Callan Fang	RHP	Harvard
+2025	13	390	St. Louis Cardinals	Jake Shelagowski	RHP	Saginaw Valley State
+2025	13	391	Chicago Cubs	Nathan Williams	RHP	Mississippi State
+2025	13	392	Seattle Mariners	Aiden Taurek	OF	Saint Mary's
+2025	13	393	Arizona Diamondbacks	Alex Galvan	RHP	Central Florida
+2025	13	394	Baltimore Orioles	Brayden Smith	2B	Oklahoma State
+2025	13	395	Milwaukee Brewers	Gavin Lauridsen	RHP	Foothill HS
+2025	13	396	Houston Astros	Aubrey Smith	RHP	UNC Wilmington
+2025	13	397	Atlanta Braves	Logan Forsythe	RHP	Louisiana Tech
+2025	13	398	Kansas City Royals	Tyson Moran	SS	No School
+2025	13	399	Detroit Tigers	Jack Goodman	SS	Northeastern
+2025	13	400	San Diego Padres	Dylan Grego	SS	Ball State
+2025	13	401	Philadelphia Phillies	Jack Barker	OF	Col of Southern Idaho
+2025	13	402	Cleveland Guardians	Aaron Savary	RHP	Iowa
+2025	13	403	New York Mets	Frank Camarillo	RHP	UC Santa Barbara
+2025	13	404	New York Yankees	Kyle West	1B	West Virginia
+2025	13	405	Los Angeles Dodgers	Robby Porco	RHP	West Virginia
+2025	14	406	Chicago White Sox	Max Banks	RHP	Washington
+2025	14	407	Colorado Rockies	Luke Broderick	RHP	Nebraska
+2025	14	408	Miami Marlins	Carson Laws	RHP	Texas State
+2025	14	409	Los Angeles Angels	TJ Ford	OF	Trinity Christian School
+2025	14	410	Athletics	Griffin Kirn	LHP	West Virginia
+2025	14	411	Washington Nationals	NIck Hollifield	C	UAB
+2025	14	412	Toronto Blue Jays	Noah Palmese	RHP	Webber International University
+2025	14	413	Pittsburgh Pirates	Connor Hamilton	RHP	Montgomery Bell Academy
+2025	14	414	Cincinnati Reds	Bryce Archie	RHP	South Florida
+2025	14	415	Texas Rangers	Landon Manzi	RHP	Killingly HS
+2025	14	416	San Francisco Giants	Trey Seeley	RHP	Hope International University
+2025	14	417	Tampa Bay Rays	Jacob Hartlaub	RHP	Ball State
+2025	14	418	Boston Red Sox	Carter Rasmussen	RHP	Wofford
+2025	14	419	Minnesota Twins	Merit Jones	RHP	Utah
+2025	14	420	St. Louis Cardinals	Anthony Watts	RHP	Iowa
+2025	14	421	Chicago Cubs	Kaemyn Franklin	RHP	Victory Christian
+2025	14	422	Seattle Mariners	Luke Heyman	C	Florida
+2025	14	423	Arizona Diamondbacks	Blake Fields	OF	The First Academy
+2025	14	424	Baltimore Orioles	Brayan Orrantia	RHP	New Mexico JC
+2025	14	425	Milwaukee Brewers	Brendan Brock	C	Southwestern Illinois College
+2025	14	426	Houston Astros	Josh Wakefield	OF	Grand Canyon University
+2025	14	427	Atlanta Braves	Mathieu Curtis	RHP	Virginia Tech
+2025	14	428	Kansas City Royals	JC Vanek	1B	Chipola College
+2025	14	429	Detroit Tigers	Beau Ankeney	1B	Loyola Marymount University
+2025	14	430	San Diego Padres	Clay Edmondson	RHP	UNC Asheville
+2025	14	431	Philadelphia Phillies	Jonathan Gonzalez	LHP	Stetson
+2025	14	432	Cleveland Guardians	Anthony Silva	SS	TCU
+2025	14	433	New York Mets	James Smith	RHP	University Of Memphis
+2025	14	434	New York Yankees	Brennan Stuprich	RHP	Southeastern Louisiana University
+2025	14	435	Los Angeles Dodgers	Davis Chastain	RHP	U Georgia
+2025	15	436	Chicago White Sox	Caedmon Parker	RHP	TCU
+2025	15	437	Colorado Rockies	Dylan Crooks	RHP	Oklahoma
+2025	15	438	Miami Marlins	Josh Hogue	3B	NC State
+2025	15	439	Los Angeles Angels	Mikey Cascino	RHP	A3 Academy
+2025	15	440	Athletics	Diego Rosa	C	International Baseball Academy
+2025	15	441	Washington Nationals	Jacob Walsh	1B	Oregon
+2025	15	442	Toronto Blue Jays	Jake Casey	OF	Kent State
+2025	15	443	Pittsburgh Pirates	McLane Moody	RHP	Northside Senior HS
+2025	15	444	Cincinnati Reds	Andrew Shaffner	RHP	NC State
+2025	15	445	Texas Rangers	Luke Hanson	SS	Virginia
+2025	15	446	San Francisco Giants	Damian Bravo	OF	Texas Tech
+2025	15	447	Tampa Bay Rays	Alex Wallace	RHP	Mclennan CC
+2025	15	448	Boston Red Sox	Skylar King	OF	West Virginia
+2025	15	449	Minnesota Twins	Reed Moring	RHP	UC Santa Barbara
+2025	15	450	St. Louis Cardinals	Trevor Haskins	SS	Stanford
+2025	15	451	Chicago Cubs	Noah Edders	RHP	Troy University
+2025	15	452	Seattle Mariners	Brayden Corn	OF	Western Carolina U
+2025	15	453	Arizona Diamondbacks	Hayden Murphy	RHP	Auburn
+2025	15	454	Baltimore Orioles	KK Clark	RHP	Pearl River CC
+2025	15	455	Milwaukee Brewers	Dominic Cadiz	3B	Notre Dame HS
+2025	15	456	Houston Astros	DJ Newman	TWP	Bowling Green
+2025	15	457	Atlanta Braves	Dallas Macias	OF	Oregon State
+2025	15	458	Kansas City Royals	Connor Rasmussen	SS	Tulane
+2025	15	459	Detroit Tigers	Charlie Christensen	RHP	U Central Arkansas
+2025	15	460	San Diego Padres	Ryan Reed	LHP	Pittsburgh
+2025	15	461	Philadelphia Phillies	Jacob Pruitt	RHP	Mississippi State
+2025	15	462	Cleveland Guardians	Evan Chrest	RHP	Florida State
+2025	15	463	New York Mets	Conner Ware	LHP	LSU
+2025	15	464	New York Yankees	Jack Cebert	RHP	Texas Tech
+2025	15	465	Los Angeles Dodgers	Matt Lanzendorfer	LHP	Virginia
+2025	16	466	Chicago White Sox	Kaleb Freeman	UT	Georgia State
+2025	16	467	Colorado Rockies	Seth Clausen	RHP	Minnesota
+2025	16	468	Miami Marlins	RJ Shunck	LHP	Toledo
+2025	16	469	Los Angeles Angels	Gage Harrelson	OF	Florida State
+2025	16	470	Athletics	Jackson Phipps	LHP	Jacksonville State
+2025	16	471	Washington Nationals	Levi Huesman	LHP	Vanderbilt
+2025	16	472	Toronto Blue Jays	Jaxson West	C	Florida State
+2025	16	473	Pittsburgh Pirates	Eddie King	OF	Louisville
+2025	16	474	Cincinnati Reds	Maison Martinez	RHP	Florida State
+2025	16	475	Texas Rangers	Jaxon Grossman	RHP	Salt Lake CC
+2025	16	476	San Francisco Giants	Garrett Langrell	RHP	Creighton U
+2025	16	477	Tampa Bay Rays	Riley Stanford	OF	Georgia Tech
+2025	16	478	Boston Red Sox	Jason Gilman	LHP	Kean University
+2025	16	479	Minnesota Twins	Jonathan Stevens	RHP	U Alabama
+2025	16	480	St. Louis Cardinals	Alex Breckheimer	RHP	Kansas
+2025	16	481	Chicago Cubs	Riely Hunsaker	RHP	Lamar
+2025	16	482	Seattle Mariners	Casey Hintz	RHP	Arizona
+2025	16	483	Arizona Diamondbacks	Collin Rothermel	RHP	Jacksonville University
+2025	16	484	Baltimore Orioles	Denton Biller	RHP	Johnson County CC
+2025	16	485	Milwaukee Brewers	Parker Coil	LHP	Arkansas
+2025	16	486	Houston Astros	Chase Call	OF	University Of California - Irvine
+2025	16	487	Atlanta Braves	Nico Wagner	RHP	West Valley College
+2025	16	488	Kansas City Royals	Randy Ramnarace	RHP	University Of New Haven
+2025	16	489	Detroit Tigers	Joe Ruzicka	RHP	Belmont University
+2025	16	490	San Diego Padres	Cardell Thibodeaux	OF	Southern
+2025	16	491	Philadelphia Phillies	Logan Dawson	SS	Eastern HS
+2025	16	492	Cleveland Guardians	Luke Fernandez	RHP	Wallace State CC
+2025	16	493	New York Mets	Zack Mack	RHP	Loyola Marymount University
+2025	16	494	New York Yankees	Jackson Lovich	SS	Missouri
+2025	16	495	Los Angeles Dodgers	AJ Soldra	OF	Seton Hall
+2025	17	496	Chicago White Sox	Derek Cerda	OF	Kansas
+2025	17	497	Colorado Rockies	Derrick Smith	RHP	NC State
+2025	17	498	Miami Marlins	Xavier Cardenas	RHP	San Diego State
+2025	17	499	Los Angeles Angels	Cole Raymond	RHP	Avon Old Farms School
+2025	17	500	Athletics	Jared Davis	SS	Virginia Tech
+2025	17	501	Washington Nationals	Bryce Molinaro	3B	Penn State
+2025	17	502	Toronto Blue Jays	Jordan Rich	OF	American Heritage School
+2025	17	503	Pittsburgh Pirates	Carter Gwost	OF	Little Falls HS
+2025	17	504	Cincinnati Reds	Dylan King	C	Central Florida
+2025	17	505	Texas Rangers	Noah Franklin	C	TNXL Academy
+2025	17	506	San Francisco Giants	Luke Mensik	RHP	Lincoln-Way Central HS
+2025	17	507	Tampa Bay Rays	Brody Donay	C	Florida
+2025	17	508	Boston Red Sox	Patrick Galle	RHP	Ole Miss
+2025	17	509	Minnesota Twins	JP Smith	3B	Sacramento State
+2025	17	510	St. Louis Cardinals	Cameron Nickens	OF	Austin Peay
+2025	17	511	Chicago Cubs	Logan Poteet	C	UNC Charlotte
+2025	17	512	Seattle Mariners	Anthony Karoly	RHP	Nova Southeastern
+2025	17	513	Arizona Diamondbacks	Joel Sarver	RHP	UNC Charlotte
+2025	17	514	Baltimore Orioles	Braeden Sloan	LHP	TCU
+2025	17	515	Milwaukee Brewers	Luke Roupe	RHP	Grace Christian School
+2025	17	516	Houston Astros	Grayson Saunier	RHP	Texas
+2025	17	517	Atlanta Braves	Brody Fowler	RHP	North Greenville U
+2025	17	518	Kansas City Royals	Luke Nowak	OF	University Of Illinois At Chicago
+2025	17	519	Detroit Tigers	Joey Wimpelberg	RHP	College of Central Florida
+2025	17	520	San Diego Padres	Tyler Schmitt	RHP	Illinois
+2025	17	521	Philadelphia Phillies	Richie Cortese	RHP	Lander University
+2025	17	522	Cleveland Guardians	Cannon Peebles	C	Tennessee
+2025	17	523	New York Mets	Sam Robertson	SS	Northwest Shoals CC
+2025	17	524	New York Yankees	Ryan Osinski	RHP	Virginia
+2025	17	525	Los Angeles Dodgers	Sam Horn	RHP	Missouri
+2025	18	526	Chicago White Sox	Landen Payne	RHP	Southern Mississippi
+2025	18	527	Colorado Rockies	Tyrelle Chadwick	RHP	Illinois State
+2025	18	528	Miami Marlins	Hayden Cuthbertson	LHP	Miami (OH)
+2025	18	529	Los Angeles Angels	Angelo Smith	RHP	Central Florida
+2025	18	530	Athletics	Jay Dill	RHP	Troy University
+2025	18	531	Washington Nationals	Owen Puk	RHP	Florida International
+2025	18	532	Toronto Blue Jays	Will Cresswell	C	Washington State
+2025	18	533	Pittsburgh Pirates	Canon Reeder	OF	Oregon State
+2025	18	534	Cincinnati Reds	Ethan Moore	SS	Oak Park and River Forest HS
+2025	18	535	Texas Rangers	Julius Sanchez	RHP	Illinois
+2025	18	536	San Francisco Giants	Cooper McGrath	RHP	Northeastern
+2025	18	537	Tampa Bay Rays	Brayden Jones	RHP	Ole Miss
+2025	18	538	Boston Red Sox	Cade Fisher	LHP	Auburn
+2025	18	539	Minnesota Twins	Matthew Dalquist	RHP	UC San Diego
+2025	18	540	St. Louis Cardinals	Dylan Driessen	RHP	South Dakota State
+2025	18	541	Chicago Cubs	Connor Knox	RHP	George Mason
+2025	18	542	Seattle Mariners	Griffin Stieg	RHP	Virginia Tech
+2025	18	543	Arizona Diamondbacks	Raul Garayzar	RHP	Arizona
+2025	18	544	Baltimore Orioles	William Johnson	OF	Oconee County HS
+2025	18	545	Milwaukee Brewers	Rylan Mills	C	Oran HS
+2025	18	546	Houston Astros	Landon Arroyos	SS	Grayson HS
+2025	18	547	Atlanta Braves	Aiven Cabral	RHP	Northeastern
+2025	18	548	Kansas City Royals	Grayson Boles	RHP	St. Augustine HS
+2025	18	549	Detroit Tigers	Ethan Rogers	LHP	Lone Jack HS
+2025	18	550	San Diego Padres	Landry Jurecka	RHP	Queens University Of Charlotte
+2025	18	551	Philadelphia Phillies	Matthew Potok	RHP	Coastal Carolina
+2025	18	552	Cleveland Guardians	Zane Petty	RHP	Texas Tech
+2025	18	553	New York Mets	Dillon Stiltner	RHP	Trinity Christian School
+2025	18	554	New York Yankees	Justin West	LHP	Louisville
+2025	18	555	Los Angeles Dodgers	Finn Edwards	RHP	Iowa Western CC
+2025	19	556	Chicago White Sox	Nicholas Weyrich	RHP	Marshall
+2025	19	557	Colorado Rockies	Easton Marks	RHP	Florida International
+2025	19	558	Miami Marlins	Peyton Fosher	RHP	Nevada
+2025	19	559	Los Angeles Angels	Ivan Tatis	SS	Georgia Premier Academy
+2025	19	560	Athletics	Itsuki Takemoto	RHP	Hawaii
+2025	19	561	Washington Nationals	Mason Pike	RHP	Puyallup HS
+2025	19	562	Toronto Blue Jays	Luke Kovach	LHP	Cal Poly
+2025	19	563	Pittsburgh Pirates	Brandon Cain	RHP	Oklahoma
+2025	19	564	Cincinnati Reds	Myles Upchurch	RHP	St. Albans HS
+2025	19	565	Texas Rangers	Cory Geinzer	RHP	Col of Central Florida
+2025	19	566	San Francisco Giants	Braydon Risley	LHP	Grayson College
+2025	19	567	Tampa Bay Rays	Blake Morgan	LHP	Old Dominion
+2025	19	568	Boston Red Sox	Fabian Bonilla	OF	Christian Military Academy
+2025	19	569	Minnesota Twins	Matthew Becker	LHP	South Carolina
+2025	19	570	St. Louis Cardinals	Liam Best	RHP	Appalachian State
+2025	19	571	Chicago Cubs	Caleb Barnett	3B	Mountain Brook HS
+2025	19	572	Seattle Mariners	Cameron Appenzeller	LHP	Glenwood HS
+2025	19	573	Arizona Diamondbacks	Jacob Parker	OF	Purvis HS
+2025	19	574	Baltimore Orioles	Jimmy Anderson	SS	Heartland CC
+2025	19	575	Milwaukee Brewers	Chase Bentley	RHP	IMG Academy
+2025	19	576	Houston Astros	Joey McLaughlin	OF	Harrah HS
+2025	19	577	Atlanta Braves	Ryan Heppner	RHP	U British Columbia
+2025	19	578	Kansas City Royals	Dylan Wood	RHP	Franklin HS
+2025	19	579	Detroit Tigers	Meridian Leffew	SS	Gaston Christian School
+2025	19	580	San Diego Padres	Jonathan Vastine	SS	Vanderbilt
+2025	19	581	Philadelphia Phillies	Robert Phelps	SS	Reinhardt University
+2025	19	582	Cleveland Guardians	Derek Munoz	RHP	Miami Christian School
+2025	19	583	New York Mets	Joe Scarborough	RHP	Jacksonville State
+2025	19	584	New York Yankees	Hayden Morris	RHP	Blinn College
+2025	19	585	Los Angeles Dodgers	Anson Aroz	C	Oregon
+2025	20	586	Chicago White Sox	Andrew Sentlinger	LHP	Virginia Tech
+2025	20	587	Colorado Rockies	Ethan Cole	LHP	Augustana U
+2025	20	588	Miami Marlins	Cannon Pickell	RHP	Western Carolina
+2025	20	589	Los Angeles Angels	Sam Tookoian	RHP	Ole Miss
+2025	20	590	Athletics	Kade Brown	RHP	Sacramento State
+2025	20	591	Washington Nationals	Juan Cruz	1B	Alabama State University
+2025	20	592	Toronto Blue Jays	Ty Peeples	OF	Franklin County HS
+2025	20	593	Pittsburgh Pirates	Nicholas Frusco	LHP	Miller Place HS
+2025	20	594	Cincinnati Reds	Leamsi Montanez	C	Leadership Christian Academy
+2025	20	595	Texas Rangers	Jamaurion McQueen	OF	Brandon HS
+2025	20	596	San Francisco Giants	Elijah McNeal	SS	Dublin HS
+2025	20	597	Tampa Bay Rays	Ike Young	RHP	Monticello HS
+2025	20	598	Boston Red Sox	Garrison Sumner	RHP	Brigham Young U
+2025	20	599	Minnesota Twins	Michael Hilker	RHP	U Arizona
+2025	20	600	St. Louis Cardinals	Chase Heath	C	U Central Missouri
+2025	20	601	Chicago Cubs	Freddy Rodriguez	RHP	U Hawaii
+2025	20	602	Seattle Mariners	Estevan Moreno	SS	Notre Dame
+2025	20	603	Arizona Diamondbacks	Ethin Bingaman	RHP	Corona HS
+2025	20	604	Baltimore Orioles	Connor Gehr	RHP	Meridian CC
+2025	20	605	Milwaukee Brewers	MaâKale Holden	RHP	Thompson HS
+2025	20	606	Houston Astros	Curtis Hebert	SS	University Of Portland
+2025	20	607	Atlanta Braves	Hayden Friese	OF	Western Carolina
+2025	20	608	Kansas City Royals	Kamden Edge	RHP	Northern Oklahoma JC
+2025	20	609	Detroit Tigers	Kameron Douglas	OF	Alabama St U
+2025	20	610	San Diego Padres	Luke Cantwell	1B	Pittsburgh
+2025	20	611	Philadelphia Phillies	Landon Schaefer	SS	Fayetteville Sr HS
+2025	20	612	Cleveland Guardians	Vaughn Neckar	RHP	Vista Murrieta HS
+2025	20	613	New York Mets	Garrett Stratton	RHP	Rice
+2025	20	614	New York Yankees	Bryce Martin-Grudzielanek	SS	USC
+2025	20	615	Los Angeles Dodgers	Shane Brinham	LHP	Handsworth SS
