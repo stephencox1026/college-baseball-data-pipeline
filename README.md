@@ -1,3 +1,5 @@
+> **ETL pipeline** that consolidates fragmented web data into a queryable PostgreSQL source of truth — the foundation any analytics function depends on.
+
 # College Baseball Data Collection System
 
 A Python application that scrapes college baseball statistics from Baseball Reference and draft information from Baseball America, then stores all data in PostgreSQL with drafted player flags.
