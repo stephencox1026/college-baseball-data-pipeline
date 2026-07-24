@@ -1,17 +1,19 @@
-> **ETL pipeline** that consolidates fragmented web data into a queryable PostgreSQL source of truth — the foundation any analytics function depends on.
+> **ETL pipeline** that consolidates fragmented web data into a queryable PostgreSQL source of truth — with a **Node.js/TypeScript** read API for ranked scouting endpoints.
 
 # College Baseball Data Collection System
 
-## Pipeline
+## Architecture
 
 ```mermaid
 flowchart LR
-  scrape["Scrape multi-source web data"] --> match["Fuzzy entity matching"]
-  match --> db[("PostgreSQL schema")]
-  db --> query["Query for analysis"]
+  scrape["Python scrape + fuzzy match"] --> db[("PostgreSQL")]
+  db --> api["Fastify TypeScript API"]
+  api --> dashboard["Scouting dashboard"]
 ```
 
-A Python application that scrapes college baseball statistics from Baseball Reference and draft information from Baseball America, then stores all data in PostgreSQL with drafted player flags.
+This project uses a split architecture. A **Python** pipeline scrapes college baseball and draft data into Postgres. A **Node.js/TypeScript Fastify** service owns the HTTP API: it validates query filters, runs ranking SQL, applies scouting grades, and returns JSON to the dashboard. Node was chosen for the API layer to provide typed contracts, connection pooling, and a clear optimization path (caching, limit caps, structured logging) without coupling request handling to the scrape jobs. It was also a good option here because the scouting UI issues many concurrent, short-lived filtered reads — a workload that plays to Node’s non-blocking I/O — while Python remains the better tool for sequential scrape-and-load work.
+
+See [`api/README.md`](api/README.md) for API setup, endpoints, and tests.
 
 ## Features
 
@@ -20,12 +22,15 @@ A Python application that scrapes college baseball statistics from Baseball Refe
 - Stores all data in PostgreSQL for easy querying and analysis
 - Automatically matches players between sources by name and school
 - Flags drafted players in the database
+- **Node.js/TypeScript API** for filterable pitcher/hitter rankings, grades, and the scouting dashboard
 
 ## Prerequisites
 
 - Python 3.7 or higher
+- Node.js 20+ (for the API / dashboard)
 - PostgreSQL 12 or higher
 - pip (Python package manager)
+- npm
 
 ## Installation
 
@@ -69,19 +74,22 @@ A Python application that scrapes college baseball statistics from Baseball Refe
 
 1. **Ensure PostgreSQL is running** and accessible with the configured credentials.
 
-2. **Run the main script:**
+2. **Run the ETL pipeline (Python):**
    ```bash
    python main.py
    ```
 
-3. **The script will:**
-   - Create the database if it doesn't exist
-   - Create all necessary tables
-   - Scrape hitting stats for all 4 conferences
-   - Scrape pitching stats for all 4 conferences
-   - Scrape draft results from Baseball America
-   - Match players and flag drafted status
-   - Display summary statistics
+   This will create the schema (if needed), scrape hitting/pitching/draft data, match players, and flag drafted status.
+
+3. **Start the scouting API + dashboard (Node.js / TypeScript):**
+   ```bash
+   ./start_dashboard.sh
+   # or: cd api && npm install && npm run dev
+   ```
+
+   Open [http://localhost:8080](http://localhost:8080).
+
+   Legacy Flask (`python3 dashboard.py`) remains in the repo for reference; the Node API is the supported server.
 
 ## Database Schema
 

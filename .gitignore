@@ -9,6 +9,11 @@ dist/
 .pytest_cache/
 .ipynb_checkpoints/
 
+# Node / TypeScript API
+api/node_modules/
+api/dist/
+api/.tsx-cache/
+
 # Virtual environments
 .venv/
 venv/
